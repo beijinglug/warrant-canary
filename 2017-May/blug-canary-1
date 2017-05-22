@@ -1,0 +1,101 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for May 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+- -----------
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0x5C25CFECA6D42018
+* persmule : 0x6BF779266DD067C1
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+- -----------
+
+1. All our infrastructure is in our control, the integrity of our 
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+as far as we know.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safe and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first
+three weeks of June 2017. Special note should be taken if no new canary
+is published by that time or if the list of statements changes without
+plausible explanation.
+
+Special Announcements
+- ----------------------
+
+None.
+
+Proof of Freshness
+- ------------------
+
+$ feedstail -1 -n5 -f '{title}' -u http://feeds.reuters.com/reuters/worldnews
+Rouhani forges clear lead Iran presidential race, expected to win
+U.S. President Trump arrives in Saudi Arabia
+New Russia probe leaks threaten to derail Trump's foreign trip
+North Korea says U.S. has to roll back 'hostile policy' before talks
+U.S. says Iranian-directed convoy targeted by U.S. strike in Syria
+
+$ feedstail -1 -n5 -f '{title}' -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+Rouhani on Pace to Win Re-election in Iran
+6 Essential Things to Know as Iran Votes for President Today
+President Trump Lands in Saudi Arabia
+Julian Assange Rape Inquiry Is Dropped but His Legal Problems Remain Daunting
+Mattis Says Escalation Against ISIS Doesn’t Imperil More Civilians
+
+$ date -R -u
+Sat, 20 May 2017 08:16:18 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlkf+2cACgkQ+tPrBeiO
+jW0EUw/+Igo3UDFBI7hXsvNdWkiW0NrdAX2KxcZmof8qmMCDh3FanLCIb3c1k0y+
+PUuGBHguw7oBTYaX1p9v4K5WmzcO8vtTOA3QS7RQ2uRSVghe7UnZjeY2HWy6v0LS
+1P6FAC9OmCUQJYKSIm5VDLQtL8qRyoE5F7YZ5sMbSc8nKYw/8NbWJIjR0fSGpDXq
+AHKoe4h7d9Y8KdS8DnpmXkS3PAqB0JJeQXiuJhXpxh8DH8e1uiDJczMsMm1WE8Mh
+Bhw5RkLymH9dlOgkIZXcm0iJBgcViVsczycxEfb4JvP+/sEz1v0FPzcRIMBNLUsE
+yQBxEJ7ND+tnQfRqCO6Z5ZOhPW/Ax+hje2SI+jCUjWBtNRJGWINU5Nozlb0aADsW
+SWpm20msW58ibIGzSAHcXWjH75TJ7aD7gcCh2a5pyderyw5KtxOhzWVsAQHEXkFd
+Dr4OBuRie29BtAyDBql45+Z+8u6h5bVW9TVa9uhGg2CPUPZXWJZZxHryGueD0x/v
+Pp8CB9GrlWu0A1kAZB5Fp0kMxFlE/fXUUCwvZ/1WTB7LbgNlOa/PFYBEpx6yH2+J
+fT7mT/QuoENkntHCPKRuW6lz2ZFQFPvS6IKnAPrmPqI2cjC4UyYzxoB33URm0MLV
+deaP+VkmId3Xhn3DOkpXGW/LUyeW+V1vcdtFc2u1LWcxOfv4TTs=
+=lCvi
+-----END PGP SIGNATURE-----
+
