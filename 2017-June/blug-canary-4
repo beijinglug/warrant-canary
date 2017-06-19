@@ -1,0 +1,105 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (4/4)
+====================================
+
+Issued for June 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0x5C25CFECA6D42018
+* persmule : 0x6BF779266DD067C1
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our 
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+as far as we know.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safe and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first
+three weeks of July 2017. Special note should be taken if no new canary
+is published by that time or if the list of statements changes without
+plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. wnereiz (0xFDFF2E13AA25BE72) has became a new signer since this month.
+
+2. All wiki accounts were deleted accidentally during a system maintenance
+earlier, registered accounts have been recovered to May 23, 2017 from the
+backup.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ feedstail -1 -n5 -f '{title}' -u http://feeds.reuters.com/reuters/worldnews
+Search goes on for seven U.S. sailors after collision off Japan
+Syrian army declares city ceasefire as Russia, U.N. plan July peace talks
+At least 58 feared dead in London tower fire, PM May admits failings
+Russia claims it killed two more Islamic State commanders in Syria: Ifax
+Brazil's Temer to sue billionaire foe over graft accusations
+
+$ feedstail -1 -n5 -f '{title}' -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+Election Success for Emmanuel Macron May Mask Real Challenges
+Can Animals Predict Earthquakes? Italian Farm Acts as a Lab to Find Out
+Rescuers Search for 7 Sailors as Damaged U.S. Destroyer Reaches Port
+58 Presumed Dead in London Tower Blaze, Police Say
+Trump’s Business Ties in Persian Gulf Raise Questions About His Allegiances
+
+$ date -Ru
+Mon, 19 Jun 2017 11:34:49 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCgAGBQJZR7bmAAoJEK+Q/zTwx0GEgKEP/1vTI52e8SMYK2Rm20bue9u9
+UFCRDVIXN4P8w/qfd/PrQbVY7n2phV+44KBRlHpbMP0sgUK8gzu5CFWAY5nV3gPs
+x1vjtEn1+Mu7mLlISfzq+ISJlG99Cptj7wzF/Cv1V3ha8+0hWaFN2ZBoXf3ZOPOK
+8MfaB/Ud+sHdTm+Oa9dcfBgqLDlBe1UcZGIoo+b8hXTkVQTII2pr1YWo9oLxg29w
+xVFJ45Oa2yVLMNWCH/S2lzheYmJlhncgwJAIiQz4VHh7arYF6kaSKNSDVH/GJTVL
+9KHcm3wIStZZ6xybAvQjcbls4kI8gKS8jFJky0wV8mT8+NZdJJFWBC3g2jHS6cSe
+WqmkbwV/8u4UBjQu9iMH7BiEVgezYEuZhiGoB5uY6lzTDvYzqGYqn1NgT4+vX5Ms
+EJKDlzXr6npMHi2APGJjEQXk4o8C9oqedQ9KzuGNWPAluwV9VfoHAwj0iLKNoUGH
+HmyAFxtXqg4JJlWuvqx3/r2Yc+Oftw//dbNNZxmrX/JXJLPvCoE2kGZbUpVCq3iw
+NbF6x6Tm6jdTrEU0rCovDSBt7OkwO0jjUn7wDYNhUPukozjLneMJsjeI0X/kB7B/
+16D+aWmhmlqczfDczRkQRPuSw/RMZnPpPqvgkgpO0fnLcf1JrIQYeaCjPE1wDlEe
+lVKuMBYKoPmBpu5CKf6l
+=WDxW
+-----END PGP SIGNATURE-----
