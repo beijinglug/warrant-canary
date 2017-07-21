@@ -1,0 +1,100 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/4)
+====================================
+
+Issued for July 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0x5C25CFECA6D42018
+* persmule : 0x6BF779266DD067C1
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+as far as we know.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first
+three weeks of August 2017. Special note should be taken if no new canary
+is published by that time or if the list of statements changes without
+plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ feedstail -1 -n5 -f '{title}' -u http://feeds.reuters.com/reuters/worldnews
+U.S. allows more seasonal workers as Trump pushes 'hire American'
+Venezuela opposition turns heat up on Maduro with strike call
+Grandmas, grandpas from travel ban states now welcome: U.S. cable
+U.S. ending laptop ban on Middle Eastern airlines
+Coffee and biscuits fuel Brussels Brexit talks buzz
+
+$ feedstail -1 -n5 -f '{title}' -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+After a Harrowing Flight From U.S., Refugees Find Asylum in Canada
+South Korea Proposes Military Talks With North at Their Border
+Mafia in Italy Siphons Huge Sums From Migrant Centers
+Afghanistan More Deadly for Women and Children, U.N. Says
+Colleagues of Princeton University Scholar Convicted of Spying in Iran Express Shock
+
+$ date -R -u
+Fri, 21 Jul 2017 00:19:15 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJZcUmhAAoJEBcgyG+InZUtp1cP/1e+vVGpcOtVcDzv5hQP2ujI
+aRhn6wkXYSJ0zlc8lbYBxwgk0kdLuKDYRQ24FGOqpApnHZnKKBlMf22O7SiOwDFY
+T9g7gEyf0Hepp9/OMEC8QSkQlTA2PwUdXW1ta2VKhZFq3N3JoA0EMhffQpuz4YUj
+Ah0S0c9zZvGNnqcCLvtVwlw8J/HI6fhMYqmByKRI3zHL9qs6nWM+xxg/oBEucVay
+vKqx1kcTg9Sr8BcYUnRr9L7Afbw6CjZDE2JWbp9CXZnb0Yo2q9cYcCg4KQogWPIj
+x2TlQCpRunFbaESRGJ54d3WCdL4jic++ipvAXjkB7PaBrhiYT4hS0+szIcK2AvZG
+2+nRpZwDbQL9m7hbMUP2p254GSvy15ipOzR97Bz6hhKE0Jtw5CmoaWSxP+hKpZ/6
+JUQJY0fWGAo/xBLKWp6FF8TofpwGx0V2o0mw8nBXmA03dfgx/1bQEh2PuJFZkQ3A
+jezNN6I/xp4HCB1QL5P7DLjNT+2emudsDiqYZ19qRmL0ryGSBYI2912r4oP1XMRp
+qH/N8i9cB4457WAXFrDsp7Hyun2WU8Omc1BnLqHj//DtcQ7RL5s0w8aTQf7FrmtN
+PQjr4PkKwiA/2WdGPZW4jgqUI5VYO3GV8nmC2Adg9WArViMo7/qATYHS7Hn7unpF
+8m2SVRbjwQ/YsNfjyh3S
+=dgUC
+-----END PGP SIGNATURE-----
