@@ -1,0 +1,105 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/4)
+====================================
+
+Issued for August 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0x5C25CFECA6D42018
+* persmule : 0x6BF779266DD067C1
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-4
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+as far as we know.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first
+three weeks of September 2017. Special note should be
+taken if no new canary is published by that time or if the list of statements
+changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Switched from feedstail to rsstail, since rsstail is more common to find
+in different systems, and switched from Reuters to BBC due to HTTPS support.
+
+2. The canary for July 2017 produced a broken link in the third document.
+This was caused by an off-by-one bug in the shell script. The bug was identified
+and fixed now, but the original canary is kept as-is for historical purposes.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Barcelona: Van rams crowds in Ramblas tourist area
+ Trump defends ‘beautiful’ Civil War statues
+ South Africa borders on 'red alert' for Grace Mugabe
+ North Korea crisis: War would be horrific, US general says
+ Indian rape victim, 10, gives birth by Caesarean section
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Sierra Leone Buries Over 300 Mudslide Victims in Mass Graves
+ In Ukraine, a Malware Expert Who Could Blow the Whistle on Russian Hacking
+ Malala Yousafzai, Shot by the Taliban, Is Going to Oxford
+ Dispatch From Lebanon: Next Door to War, an Indie Arab Band Sings of Defiance and Joy
+ Australian Senator Wears Burqa in Parliament to Push for Ban
+
+$ date -R -u
+Thu, 17 Aug 2017 17:14:25 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEnTH8ysP08M9pN7D3bXKmG/S34wEFAlmVzv8ACgkQbXKmG/S3
+4wFp1BAAhw6txZmJXyWfu0SQ0RJIhzBgS4yFnoltDbAhpuIb4wTYc0s1+K5SEW/9
+jE/AB+WJKtzBenmuS3TqFxaggdkdKeJNoceZq91QZ6GuMQKkWh4K26Km3uprpQjP
+PGLNRhIjbEeqMGRB4rfAqxQ7LuSKqpD5yrneVSMnmepPNzF19ZrDFCSIS85yeIot
+o3U1Qf0LDHObvrRzhZJ0EA/EidoCA9worr38TCl3v2Ev00keGyMoo+TYYKTcPbIH
+PcNgvBFzsq4xEPPZaWUo3QY9fSicRA+sXIjeaRohDyQUUouKg72g6GrGAUUYQdDK
+9vlf/6TlRJ9AsHwsuftuCHZ+peq6dSCcxfePDcjIOqnHK1Xkh0+DuDX1haoNu7q0
+zJXhKIHkzRsDQVWP5DjurOQPrzIxhq5Etijwg7bWxSanFIuzAc1Hh38cIaLZldn+
+zH8QXqkttvUXjsIqUxSaj0oP+hlwVUj5af5wsCnzoEKCJctbEEdXSzJa2thC0aZP
+aKQyb36rBChFUTYMAwIt48rgD7bYsdZL+2I7bTCf7umhUEHKosdbNtan59gcDTPx
+oxigtP0NCAkoHec9TAS5Cyj6dSkB2QYxjv+rdFozENuKhQkixfkppw5Rfv3RAzDP
+SiiX7oLFabwFrlHU20XZYhKYVpa9g2mdYsMcNdcgTcVMiC09QWw=
+=72C/
+-----END PGP SIGNATURE-----
