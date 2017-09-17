@@ -1,0 +1,109 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (4/4)
+====================================
+
+Issued for September 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first
+three weeks of October 2017. Special note should be taken if no new
+canary is published by that time or if the list of statements changes
+without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Two personal key rotations have occured, tonghuix and persmule have
+changed their PGP public keys. Reason of the key rotations is the personal
+practice of information security. None of the keys have been compromised.
+
+2. You can validate the new keys by reading the other two copies of this
+document, signed by biergaizi and wnereiz. Or by checking the Web of Trust.
+
+3. Statement No.2 is improved to use formal language, it is not a result of
+any incidents.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Rohingya crisis: 'Last chance' for Aung San Suu Kyi
+ Paris climate deal: US denies it will stay in accord
+ St Louis police killing: Fresh protest breaks out in city
+ Hamas says it is ready to hold first elections since 2006
+ Pakistan by-election: Sharif family contests Lahore seat
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Digging In for Next Decade, U.S. Expands Kabul Security Zone
+ Where Tourism Thrives in Mexico, Bloodshed and Poverty Are Blocks Away
+ British Virgin Islands: Knocked Down, but Not Knocked Out by Irma
+ British Police Make Significant Arrest in Subway Bombing
+ Bangladesh Plans to Build Huge Refugee Camp for Rohingya
+
+$ date -R -u
+Sun, 17 Sep 2017 08:49:56 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCgAGBQJZvjdqAAoJEK+Q/zTwx0GEh9oP/16uNC4v2B2pEiyA4cImlL8f
+vM2IYI1Bmb7sp6OqaJ18I6GBtdSTuE9GPUfiO9mJnYxgcRefodV2Etc3fKN1ZwLZ
+5Nrw/yu7x6HFZD73U/SeRYjUIb0ClaWTjfsbLfWr+55/vEVtfhj5D1KiUb9doS8Q
+wmgJH12cg6YqKLhFjNfM3Rq3cU70O0k1GtP7JjXYFbmHzVfXPcsA/PkyWMfylvIj
+7R3aAzF/3xPYj7eO+quyLyLWkjXq6wXUrS19/wIfsb20zXUfTxQEvrOXQYOEN8OL
+dOyTHiMqeLuW/eUBfCw9nj9Bta//3jzau8ED8kfkdWfaWdOyhDhFVF0gnqxWRwy5
+T2ixEjpSmGE3kUdEdsYDYYryzqYiq7gR/7cLaMVgXlM+20DZagoa+jZSoNRQe9gB
+pco/NYlgKaHVYBoubzGgwaYg+iwjXUPfaY/P6wn6e3gNNHlTavz3dnNJNXOtZmtW
+dVRm7UoAZndFdOlfdNpT4dlAd/ZKjtxGXuZ0CYBKODxEdUIX72ucbQ8vBlckKGMi
+jcB1rtbRM4q3h8269IGWj3Ut7aVklq9mUkq+9woaptLj+CFY7uNoK0OpcI8mFdPc
+93aqNXk7c8tl7I1DsY1vQtYhxVOi6c/RRvY/JVixpD8IlAdyNRUNwC+B8s0Y60XF
+v3Wv7odN2Xk6m5UYIjaP
+=7A8N
+-----END PGP SIGNATURE-----

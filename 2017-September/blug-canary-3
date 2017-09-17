@@ -1,0 +1,108 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/4)
+====================================
+
+Issued for September 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-4
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first
+three weeks of October 2017. Special note should be taken if no new
+canary is published by that time or if the list of statements changes
+without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Two personal key rotations have occured, tonghuix and persmule have
+changed their PGP public keys. Reason of the key rotations is the personal
+practice of information security. None of the keys have been compromised.
+
+2. You can validate the new keys by reading the other two copies of this
+document, signed by biergaizi and wnereiz. Or by checking the Web of Trust.
+
+3. Statement No.2 is improved to use formal language, it is not a result of
+any incidents.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Rohingya crisis: 'Last chance' for Aung San Suu Kyi
+ Hamas says it is ready to hold first elections since 2006
+ Syria war: Russia denies hitting SDF force in Deir al-Zour
+ North Korea: South Korea sees fall in defectors
+ Did Taiwan police and paramedics leave migrant worker to die?
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Digging In for Next Decade, U.S. Expands Kabul Security Zone
+ Where Tourism Thrives in Mexico, Bloodshed and Poverty Are Blocks Away
+ British Virgin Islands: Knocked Down, but Not Knocked Out by Irma
+ Britain Lowers Threat Level After Arrest of 2nd Man in London Subway Bombing
+ Captive Priest Is Freed as Philippine Troops Close In on Militants
+
+$ date -R -u
+Sun, 17 Sep 2017 14:57:23 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlm+jV4ACgkQQmooAO3W
+sm0wHQ//Z7pB6joApBtgIALyBZWKZNpUaYTgewMTeFhXSuozL3/2RJo51leQkGTd
+GsAGXrGOeo+9S06I9mlIVQm7MCd1pwmmmCDZIB9UP6I/YTeDsOhU+efhOw2FqiaH
+YCmK/rPeUH5lg3ZIUk2XKYMYJbVl/rBrMvxtGjMQ1Jh9/hNxLQZWxXxwQU9zdQ6P
+QBlHymU60uzVxHy6AarS2J+glimF+zA0ekTzoAX7MS4+BinRwDbmbFBlJWiruVk8
+BIs2Y3I6Bl3gAgn0Pzsouwgq4JSBzzT+7bGjc/3iMmTpeNcjnZHle/+JdXLbWpRJ
+frLG27HFR0M4pygUfgD8gv7jMhqCxyy8mc88cJVTfhZIpdpwUq75HaAHYGEvJ7ZP
+bUo+GzBhR51TBtH8RhSCLQrs2yP2ptduW6si0RcwAZT9yV4E6Pr8u6pklX6o9AqN
+dUkywQmGhvTnNXhTpISNp/+YWQp+LapNStPimpR8KgyCXpQcrmI04zaiJWDU/GT/
+b6PZZBDQO/PaegZuVs7PjbEE3QoC+JafI7KI3DjJQmMcl0MxdnyxRrPk2byJ3ccz
+MwR0+eQFiuAr3sWNJ+qTWo0zzNv/E59A+hgFXApD3vVV7U4s4sX0znVKgjPKAMGk
+HrIHLBYISS2HXII8FgMXjh7/EfOWmnD/P+Zf5LfsUzMXO1gWj9A=
+=RnkZ
+-----END PGP SIGNATURE-----
