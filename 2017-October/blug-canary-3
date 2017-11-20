@@ -1,0 +1,101 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/4)
+====================================
+
+Issued for October 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-4
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of November 2017. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. BLUG has migrated the server hosting to another datacenter and fresh
+installed the operating system. No security incidents or compromise
+occured before, after, and during the migration.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Trump denies 'insensitive' remarks to soldier's widow
+ Xi Jinping: 'Time for China to take centre stage'
+ Kenya election official Roselyn Akombe flees to US
+ Spain warns Catalonia on self-rule as deadline looms
+ Syria war: UN says it is ready to go into Raqqa
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Come Out and Surrender: Inside Raqqa, With the Fighters Who Drove Off ISIS
+ Xi Jinping Opens Chinas Party Congress, His Hold Tighter Than Ever
+ Rohingya Refugees Fleeing Myanmar Await Entrance to Squalid Camps
+ News Analysis: With Loss of Its Caliphate, ISIS May Return to Guerrilla Roots
+ U.S. Stood by as Indonesia Killed a Half-Million People, Papers Show
+
+$ date -R -u
+Wed, 18 Oct 2017 15:55:54 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlnnfC4ACgkQQmooAO3W
+sm0MjRAA2H3LVVBbfXNNk0owPGs+IrcomaUwq7ZowDWK5s9xMJcHzB0nAI51+Rku
+u/d8mBOCu5CXFbMaH5dNsj7gl5OpaWA3OK93hxfLBXLXeoAUIarYSfvsxr6bNBDA
+fLeT2sEHRux/2deo0lM+oEnRDBv2bo40WriG7LeDb62G+kVQTm+LZ1sa8EsJNFAZ
+29h1iU8uodmSsvfwX8J7JNpZLd0TbayRF3dsXzjC8zKuhTYSNTfECj7Nb3EgegiX
+V+K//yFKjW+b7nPPKSlY0mskuUEp/tXgT6i4zqhP/GxdGOyiOLQGaKq7uEeYYON7
+/n9CYQRrkJEQEjEGjNCZLV2NVvnrrqga0Fn5f7ttOJXdbrCkFDaXqZtGb8KxZC+0
+OYvx5JzY414GJ4oKLQV5q5jg5oh6xgO6G9U4oDskwljUc3xWYpgtjZM0VyxRhvBl
+K7VxFZ5o9I7nqMAKUwB19X1hbQoWWiCmCpKbn5sug5Q8RSMOH8Kw3C4ThFZaJUI6
+SLycxnwD/dHLWR3n+Fb+90w5IEuIpjBWKExUJsMTBVpgUIBx9hJf8XNrQXV4Kc8X
+zJtm9uTRLGQUfeDm8zFght4T4G9o7f+WlNzYgDYPU5AL3SFb1XOslAODfFM5dwsP
+bLi7VS++qwTuJmZUA/ZjRSB3zG+T+CNn32PwvSfMfKhUsSCOnes=
+=Eam6
+-----END PGP SIGNATURE-----

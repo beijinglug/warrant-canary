@@ -1,0 +1,106 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (4/4)
+====================================
+
+Issued for October 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0x5C25CFECA6D42018
+* persmule : 0x6BF779266DD067C1
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+as far as we know.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first
+three weeks of November 2017. Special note should be
+taken if no new canary is published by that time or if the list of statements
+changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Switched from feedstail to rsstail, since rsstail is more common to find
+in different systems, and switched from Reuters to BBC due to HTTPS support.
+
+2. The canary for July 2017 produced a broken link in the third document.
+This was caused by an off-by-one bug in the shell script. The bug was identified
+and fixed now, but the original canary is kept as-is for historical purposes.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Trump denies 'insensitive' remarks to soldier's widow
+ Xi Jinping: 'Time for China to take centre stage'
+ Kenya election official Roselyn Akombe flees to US
+ Spain warns Catalonia on self-rule as deadline looms
+ Iraq takes disputed areas as Kurds 'withdraw to 2014 lines'
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Come Out and Surrender: Inside Raqqa, With the Fighters Who Drove Off ISIS
+ Xi Jinping Opens Chinas Party Congress, His Hold Tighter Than Ever
+ Rohingya Refugees Fleeing Myanmar Await Entrance to Squalid Camps
+ News Analysis: After the Caliphate, Whats Next for ISIS? ISIS 2.0, Experts Say
+ U.S. Stood by as Indonesia Killed a Half-Million People, Papers Show
+
+$ date -R -u
+Wed, 18 Oct 2017 13:58:11 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCgAGBQJZ514dAAoJEK+Q/zTwx0GEVOsP/iiE4w+sn0E2GUKTllF2fcGJ
+FJlg92aGewgODmlMYvwb7ZA+ebVEiE1W5hC0gs586YrDAxzxSmjS81rwYic9A2gl
+wbnowL7s1T+KaoKgpHSNCZOUeNaIymO7LAdokkyZgF8Od78fk9UMXwHtEs/AI/Gc
+EJj4USwyytiYa7F1Yg3wJVK+rGw24pp5rbkTiCJrnNyMK15PqaCDpqB2yrZJdpWi
+S1TbqkQ9y3a6r0pN4q2t6OXAt52bQhFwL1V6VTf3ncetFSo7XJvLnpuTmWFrL02m
+XfADx+cSfWAgtc3sPu2QwJIMsdGK15QI1ZQBpug7fTKE45HHH1kS1/EpTqskEg1i
+hfTXHjM8yrEr+2NAHA9y9TZbuBPsWqFl9mzWfk2Jzr39jW2Bhs8IvEEJNTulT2QG
+qdc/ZH1DFy8LytRbF81obqaKs1DS5vVcQkkHBLwNjj/qEFUImDVsRJmgGeNzFpiq
+b2CF7D5ROXv5QV9MHyo2+x6cwN7VNqF+gIAx0XcdDNPRh1K6+HrBpNszFkpEIYiw
+/qg0nO3q2emOmE+HC695fvG5YcZTlTNGkF2d7/GZQ6AOySsgvq/PW8WjZ2IREW5l
+PCTxvPVtgqYaHnl9rTDmR6qHnq/T/ZnY+9xY0g3btglAsujc1xOsiivGh1bxQBK5
+n2rj5XX9aix6MzoQR+zK
+=Nr26
+-----END PGP SIGNATURE-----

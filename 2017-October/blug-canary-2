@@ -1,0 +1,107 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/4)
+====================================
+
+Issued for October 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of November 2017. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. BLUG has migrated the server hosting to another datacenter and fresh
+installed the operating system. No security incidents or compromise
+occured before, after, and during the migration.
+
+2. tonghuix failed to publish the canary for October in a timely manner,
+this is a mistake rather than an indication of security compromise of
+any type. This document is published as the canary of October and correction
+of the mistake. We'll take measures to ensure that similar mistakes won't
+be made in the future.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ President Trump to address key Apec summit in Vietnam
+ France's President Macron begins Saudi visit, amid Lebanon crisis
+ Portia de Rossi accuses Steven Seagal of sexual harassment
+ Spain Catalonia: Ex-parliament speaker Forcadell granted bail
+ Louis CK: Five women accuse US comic of sexual misconduct
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Trump, Aiming to Coax Xi Jinping, Bets on Flattery
+ Despite Trumps Pleas, Chinas Online Opioid Bazaar Is Booming
+ Marib Journal: As Yemen Crumbles, One Town Is an Island of Relative Calm
+ For Tweet Mocking Mugabe, New Jersey Woman Could Face 20 Years in Prison
+ White Smoke From the Vatican? Not From Cigarettes
+
+$ date -R -u
+Fri, 10 Nov 2017 03:17:53 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJaBZbrAAoJEBWTzdEpXx68zJAQAKZ/zhMSWjEotKaEkMFvvoWd
+bZcbvPGO/Q2rSXCrhDh6hE0Ya78cV9Y+I8cjoqVH4FeDUT2oJjQU74B1aDPtPgKo
+j6UKkmc7YK0jUMMLYmolI4vu02Jg5zBncH1pR3jwp1PGDsp23IQ2PXga1dodOJv+
+oh7CSf3KYvDh4GXXAGlbPdlQtO4WsHcwHqyqAxq62QO1ASVavwpgMs5kkzzDc3TI
+szJ5rxytQPZUoIEoOZIuCuzrXPjNTZcyL1GX/0+i1EZwk9KBSf73q1j9MEd/ivhw
+jOQhnzSYDE1EQ7SIpfCjQxodjoxuPizLjv9vGqVhR7SWldKgH/XWsb8w7NrFOKEB
+UyuHH/HuYVCxgGb+9/qScY1GAilwpMRJpJFKFbJDue+BNSOi6qqk5LSIUJY3DrO5
+JTYI38ILSgBM0antYajIjWowaRdcxKXuFWlkt76NP7urqvwwQjl+rEJn5ZQgeft1
+/85zrJ7b4t4qPJdYmcgMAf2r6tb4Ger9IDPOHhi0XKOrA+vsYCdIEDT5Sk+0nhg+
+oDR60VDxZHc9ERtFOoB0BbQRvRONIWiOgH/wW6hUtarq2XQCy89flV8jbHPW0ADd
+/TlmRaiR5MoZBupsFAhC+WGsBrax4VBlXPDdUpMPGDTRmQHDy+2BhOSmkHm+dmLq
+jj78mwdhtyJDcINB4i06
+=NSyc
+-----END PGP SIGNATURE-----
