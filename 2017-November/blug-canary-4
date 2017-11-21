@@ -1,0 +1,107 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (4/4)
+====================================
+
+Issued for November 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of December 2017. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. In October 2017, tonghuix failed to publish the canary for in a timely manner,
+this is a mistake rather than an indication of security compromise of any type.
+
+2. In October 2017, wnereiz published a canary document, but the statements were
+not consistent with the other three canary documents. This is a mistake because an
+outdated template from September was used accidentally, instead of the latest version.
+
+3. We'll take measures to ensure that similar mistakes won't be made in the future.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Germany's Merkel suffers blow as FDP pulls out of coalition talks
+ Zimbabwe crisis: Mugabe ignores party's deadline to quit
+ Charles Manson dies aged 83 after four decades in prison
+ Okinawa car crash sparks US troops alcohol ban in Japan
+ Poland fury over 'attack' by EU's Tusk
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Behind Mugabes Rapid Fall: A Firing, a Feud and a First Lady
+ Revolt in France Against Sexual Harassment Hits Cultural Resistance
+ Sale of Migrants as Slaves in Libya Causes Outrage in Africa and Paris
+ Taipei Journal: Where Stinky Tofu Is at Its Malodorous Best
+ German Government Talks Collapse; Next Move Is Unclear
+
+$ date -R -u
+Mon, 20 Nov 2017 12:21:53 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCgAGBQJaEskhAAoJEK+Q/zTwx0GE7ZsP/1zDoptDtfNVMyZ6l/LG0qT1
+2TpqesLvl71qLz2NIfa69ye7NpbN9xUonYIk/p+mmJKQrOtVctUswtP0JWSmpi/I
+QJV5g2dtFd43AjKq5PEkhVY0FFsyYSv6+LNJqCzInOlb6oc3SC+i0ccKDYUP2LJp
+3x7L5FXYS5w54wpPQbhXPgsnRf4WrVxIt0ygFu2FWTSXSRdZIBS1dHzmrtFHkw9F
+mxmYnk1xbBit2H+KDBZyOapB0iJkzhSG2V3q7un5szzcN5H/1oIprfpybbQiuVLC
+fOrM/PJvcBVGbwY2Kz47nMXcTXQ9y9iGI02hSANuB52ojcAXjYf4zTZ2Rlymt1X8
+eOhfc8AyQEEmgq5OjRohyl2RzoaqN0/gQQaYa4jPFTO1nCum08s1Aluo0m1phNVw
+Eu7OPjRM5am8Gs3VufdPfX2d1s6X4vlNsaYK/Ic7rdaaVQTiG8CRg53pikCEGZ/u
+ofW7sR7H6CCKMwy+jzNe8BujsYRBrwDlStfEOdsCsjn5+1ApVOHsscAvMwfl8vWD
+ivOMGsM4fOiPTCAWO3XwT5ztCaaJhnYhzw5BEiZasZZwpAca/pnn4otOuMP9DFlr
+g/MHMHgCUwgKnc70qJB+IqQiPQAE51+uoLXKCmtz586KQcAwdulpk+GI/r8BD+rP
+4bz80zDyqalk4pDymNgZ
+=l3kp
+-----END PGP SIGNATURE-----

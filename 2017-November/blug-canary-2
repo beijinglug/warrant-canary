@@ -1,0 +1,106 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/4)
+====================================
+
+Issued for November 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of December 2017. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. In October 2017, tonghuix failed to publish the canary for in a timely manner,
+this is a mistake rather than an indication of security compromise of any type.
+
+2. In October 2017, wnereiz published a canary document, but the statements were
+not consistent with the other three canary documents. This is a mistake because an
+outdated template from September was used accidentally, instead of the latest version.
+
+3. We'll take measures to ensure that similar mistakes won't be made in the future.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Zimbabwe latest: Emmerson Mnangagwa urges Mugabe to quit now
+ US moves to block AT&T's takeover of Time Warner
+ TV host Charlie Rose suspended
+ Trump declares North Korea 'sponsor of terror'
+ China jails prominent human rights lawyer Jiang Tianyong
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Just as in 1980, Zimbabwes Celebration May Be Short-Lived
+ Germany Plunged Into Political Crisis After Coalition Talks Fail
+ Nut Rage Whistle-Blower Says Korean Air Retaliated Against Him
+ Silent Sub: Time Is the Enemy as Argentina Hunts a Lost Vessel
+ Trump Asked China to Free U.C.L.A. Players. What About Activists?
+
+$ date -R -u
+Tue, 21 Nov 2017 07:42:29 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEslL/6eplLTkcSdGkFZPN0SlfHrwFAloT2hkACgkQFZPN0Slf
+HrwXUg/9Fvkc4TpH2cgvc/qfYhNglfO1LDCOfGmUIleJzIeXpPoYWPyECe6SGXsa
+ekfGdqmQ7KVCnkN6GnCTtrD51I6yU/gaOtRRPYstrqx9DlCkpXjw3N8H6sZBGGcf
+JZ2wByQy14dYN1NYyvx3vJc3RT4cMPSXzWYIdmjQv/6aL20LCqQvRl/PUmoxnYkm
+Y9nx6MkWiI0XIlR9lWqSLGAtlnfy+oFhFc08hVGfbNKtjWVYAeDBh3x8A7GJQBMl
+W/uKRjHKbIrwfaUcDT2gMSQ9vsxCpxCLQEZcJdUAAS2kWieO3eCYuqX2pS8taMVH
+uGyqdpjea2tbR9GiekufZbWKVyF0kKQJy3It64JrD/NQCWHbvO1ZH/INBzCW37LQ
+UfFEHKAO1KMftGvzQfPAaIvPn3j3FqmQc1M5OAvVxy8dXVK0qmxegT6UHdRy15A0
+mHG3rZYvYe0ENqQG0g8xZY/UNPVnyhaTpPFAxLDEwfNjT9mET1R7TWPd+RytxTvy
+vOjS0AOEL2WO0maCUpG74NDMauOmZ97Hcuw7mbRPqdRa28aqW8NL6KxhqrZny+qV
+/oEFzGi+cF3MutFo2tg3Gm7oStLKV3oAu/NC83HzBcYs62/ftGtna8rOiBeYgHxM
+xGy2pIlKQGk3F/Sh2ZoyxYcN7qk4jnoHK8j7sNUBKgnDKPM2k1w=
+=cga1
+-----END PGP SIGNATURE-----

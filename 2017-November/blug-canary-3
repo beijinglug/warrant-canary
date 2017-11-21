@@ -1,0 +1,106 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/4)
+====================================
+
+Issued for November 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-4
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of December 2017. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. In October 2017, tonghuix failed to publish the canary for in a timely manner,
+this is a mistake rather than an indication of security compromise of any type.
+
+2. In October 2017, wnereiz published a canary document, but the statements were
+not consistent with the other three canary documents. This is a mistake because an
+outdated template from September was used accidentally, instead of the latest version.
+
+3. We'll take measures to ensure that similar mistakes won't be made in the future.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Germany's Merkel suffers blow as FDP pulls out of coalition talks
+ Zimbabwe crisis: Mugabe ignores party's deadline to quit
+ Charles Manson dies aged 83 after four decades in prison
+ Okinawa car crash sparks US troops alcohol ban in Japan
+ Poland fury over 'attack' by EU's Tusk
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Behind Mugabes Rapid Fall: A Firing, a Feud and a First Lady
+ Revolt in France Against Sexual Harassment Hits Cultural Resistance
+ Sale of Migrants as Slaves in Libya Causes Outrage in Africa and Paris
+ Taipei Journal: Where Stinky Tofu Is at Its Malodorous Best
+ Germany Fails to Form Coalition; Next Move Unclear
+
+$ date -R -u
+Mon, 20 Nov 2017 13:19:02 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAloS2FkACgkQQmooAO3W
+sm2VHQ/+NChHFY1Rky9D5NeFOcMHRQ2Jkh3mo4u47gGllPGdDEwoHsRerbcfj0FX
+XMQFmwI54CLPGbSsx55K6ZfJPHuIhjmy/r+Ix7vCpKzkPwZ880X+aP4NowJLq9oy
+8jEv91z6L1Yqg8+57M4qz06b7vzt/oEu/fxj/S37GNHJXgKcD13/ACVoODld660s
+O76NpzL4JaGv/Rblam9kM2tjqag/cKmhSBP40bvZ3yHvwPLa9keo4I1K2hLxR7ce
+Gj8uo5lXKXNm/iLvuctrRXjMEwF59Vvj+tMDjl/tOz+rhXhE6+pKzijOWT1896Ep
+ZxtPh73IgFL76ahC1jI3/BPXYQpMPwLxlLjDAeGoDo3ZR0Tj4Sf5oHMWRySbpuwb
+/+zZN6nWRMVKEc3npuTbJ50Mxf2HO5Sq2iRzjJaQPGxX+ksyccFkEXMhI8Bd03+T
+aAR5nj910mRgS7kTpNpA2bhb/cvyZl16F51lV6W4fjhXLYAQ8eZS6IxlvB10Brb9
+QEV86iS2vmuAAj4wu6M+EScWg1YP3OyqsQ4F576/dbf/KJwGMV5Ft3T7RyUbNBXP
+ID5hCv79lKxJsEKmCmhJY4xNxiH4S8AGKhy0Y3RhcAI72CQxHh32WMV9nrUIxleN
+JeJpdo9NGAYGcrARJ/B1EHfCyezZE8sV3jh4jGIgSrElXbV1neo=
+=5hsM
+-----END PGP SIGNATURE-----

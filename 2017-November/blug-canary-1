@@ -1,0 +1,107 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/4)
+====================================
+
+Issued for November 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of December 2017. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. In October 2017, tonghuix failed to publish the canary for in a timely manner,
+this is a mistake rather than an indication of security compromise of any type.
+
+2. In October 2017, wnereiz published a canary document, but the statements were
+not consistent with the other three canary documents. This is a mistake because an
+outdated template from September was used accidentally, instead of the latest version.
+
+3. We'll take measures to ensure that similar mistakes won't be made in the future.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Germany's Merkel suffers blow as FDP pulls out of coalition talks
+ Zimbabwe crisis: Mugabe ignores party's deadline to quit
+ Charles Manson dies aged 83 after four decades in prison
+ Okinawa car crash sparks US troops alcohol ban in Japan
+ Poland fury over 'attack' by EU's Tusk
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Behind Mugabes Rapid Fall: A Firing, a Feud and a First Lady
+ Revolt in France Against Sexual Harassment Hits Cultural Resistance
+ Sale of Migrants as Slaves in Libya Causes Outrage in Africa and Paris
+ Taipei Journal: Where Stinky Tofu Is at Its Malodorous Best
+ German Government Talks Collapse; Next Move Is Unclear
+
+$ date -R -u
+Mon, 20 Nov 2017 11:46:56 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAloSzbEACgkQ+tPrBeiO
+jW2cJxAAj+5gy9LVC+I0cM/IgFoylj+w2tw8x37kkDo61+1+rvAkFXbH0v2LsQIW
+GTQnZ157qQQFGSRWzJEnH++SHKGxBd6IWeKCH90h0nrOwA1CbHXqmEE1TpUUO/gN
+CXtaKqxunYxH90iVg1hz/grIv3ly6iz36b3+yo8E3ciqS7Y8fL/fgmGdIfPTBjfX
+4DvAc6aPgeNPAFttyBpy4eIJEyTb/ak+gG2Kd2bHKrgHWFUjiHCHxiojt0Q/UIEs
+vvK5M55S4glvUrhKitdZgRQMevT7lx1Z2DyN/dPrKZvylC1G9DkYeQvrW9YafSKI
+DICBtBG0kxMD2ezpmd2+8wNK3vJvsT+v8oFarenpWpdQbl0IvNUPd3eJdmbdioi5
+9nFuDwCXj1qW1BuoRAi8K8dt755fOnysN+27fY91VvDDc4hgY1gnutmiMFOl7Df4
+y+wAxua6q9WOQ1EYMmxfuo7hcPsiWmwdMzi2DZbqjfchePBO6kxldkbFH/aLQOB5
+FTeo1Zk5yBiTa3M21mvYTp69qH1Rz6Ff1EaGJWzTw9+FVZmxhdM8VuJpEWtpXw+0
+cU2J2ZZ6dYryPKT6Qfj3XZVo0pGVLQEovgXmSolJ0vnPcuLTSfPMWYy8rivKIjl9
+gis4Kp/Ni+L8FnxlVYXHcZr/WjGGiB1IgGww3fZcBDQqU2J9Mqw=
+=G5Az
+-----END PGP SIGNATURE-----
