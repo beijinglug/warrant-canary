@@ -1,0 +1,103 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/4)
+====================================
+
+Issued for December 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of January 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Due to personal reasons, tonghuix (0xF9EFC7D7C953EC9C) voluntarily decided to
+quit from the warrent canary team and he will no longer be a signer of the warrent
+canary documents since 2018. All statements from the warrent canary documents are
+still valid.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Urbi et Orbi: Pope calls for peace for Jerusalem
+ Moscow subway bus crash kills four people
+ Tembin: Vietnam braces for killer typhoon
+ SPD crash: Car rammed into German political party's HQ
+ Jerusalem: Guatemala follows US in planning Israel embassy move
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Using Billions in Government Cash, Mexico Controls News Media
+ We Are Afraid of Christmas: Tensions Dampen Holiday in India
+ Why Saad Hariri Had That Strange Sojourn in Saudi Arabia
+ Guatemala Will Move Its Israel Embassy to Jerusalem, Following Trumps Lead
+ One Target in Beijings Migrant Crackdown: Schoolchildren
+
+$ date -R -u
+Mon, 25 Dec 2017 14:21:07 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlpBCgsACgkQ+tPrBeiO
+jW2cCg/9G17LsoIf8WQ+zD3R9Pb78MPuOxK+qYmOFxgVcRYLmN/886vNo2WPatre
+DA4qW8fZ9qEpU5eQ4OAHKYD3ZwJ3chNRAo8YHA4IPbMkPx+J5SpU8FU8tIqCRyD6
+ax5Psyb/w1/sXANsRI2qRfHskZyJJQMdsZDGkP5fFQFOEkKBetaOb1eUe5FnVcCx
+KwUE/1mkx/Jz0Yl0IBGVRdEwAZBnG+38kDZDXPaJ0tWykzy/U2zm+ZaFLJQb/4X/
+1xfxrvNYSSpkuj6AcD2y/INWoO4YanOpKWxj0au9KeTNycsLKUiqtHtlDig2pZ0Z
+nyhgfmgqGERFzlxPS+6hw8UP7NUZq5n741PUA0S+9T0h8T5YQZTRm3VGotltTOmk
+sKNTON1dhPuZr6EE9cDc2RpeUAWTo4WyLB/wmkQJlhGCsF2voxUVK5/FIPhnoEQc
+7wkGmDffFNKCFLCGjl7t1rE4gJzX3NapkzBBL5UPaogtgDBSteh27iLFXPFSN7Tq
+suqOrW2ndFIH8LlDDF5Qgas5cOxtXKygoqXO/8YqFbt9uahxaqqdmfLZyQ1LOLEB
+1Tp95sMrFCVFfB98FnuMunMP77ZKjOfWweQDEQxQ5uYrIcEzbeOJ5L9miTpNCILo
+sCWgcVILuSZu0fkAn12VfuVugneYY5RkO/1TbI8d/8LLozbS/Ak=
+=Dinv
+-----END PGP SIGNATURE-----
