@@ -4,8 +4,11 @@ If a bird flies away, SO SHOULD YOU.
 
 # December, 2017
 
-WIP, see:
+All FOUR canaries were fed, see:
 https://github.com/beijinglug/warrant-canary/tree/master/2017-December
+
+**Note: Tonghuix voluntarily quitted from the canary team and he will no
+longer be a signer since 2018, see the documents for details.**
 
 # November, 2017
 
