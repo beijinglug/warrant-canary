@@ -1,0 +1,102 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/4)
+====================================
+
+Issued for December 2017.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* tonghuix : 0xF9EFC7D7C953EC9C
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+FOUR DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of January 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Due to personal reasons, tonghuix (0xF9EFC7D7C953EC9C) voluntarily decided to
+quit from the warrent canary team and he will no longer be a signer of the warrent
+canary documents since 2018. All statements from the warrent canary documents are
+still valid.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Brexit: German minister sees model for Turkey and Ukraine
+ UK navy tracks Russia warship in North Sea
+ Liberia election run-off: Ex-footballer up against vice-president
+ Justine Damond death: Police remove white nationalist memorial
+ Egypt hangs 15 militants convicted of 2013 Sinai attacks
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Thousands Once Spoke His Language in the Amazon. Now, Hes the Only One.
+ One Mans Stand Against Junk Food as Diabetes Climbs Across India
+ In Tangled Afghan War, a Thin Line of Defense Against ISIS
+ North Korea Wont Stop Its Arms Tests Anytime Soon, South Warns
+ For One Far-Right Politician, Forgetting Germanys Past Just Got Harder
+
+$ date -R -u
+Tue, 26 Dec 2017 13:31:03 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJaQk9FAAoJEBWTzdEpXx687GAP/291jEOT9m5nA/45wih3JqR6
+X7PXJbNG5dB0PYMDLatCkNlO6ccrhlRdumQ/IuqxtgPNzPr8D96NEEexQmNmRsL2
+3iL59dAf5jDC+boXpz10UUYoZ87RPmvLv2D+nhPyfPqUOCERYtkDxG+egV5nNbgc
+scN8YsG4rye8TbMGoHw9bBiQJnMCfY3JgmxceHBDWEo2NCuZojH7AZpBXbN/c9/6
+L46W5tUxftYZ997pmKkeYGkZ3oWl1JG/B4PkOa1DDiO7VIYMgmtNIa9FPswEdcyF
+aRWq+rFA3pGgRdBJcjG/XcN7/tOfKw3666zYyrnlxd8rb0KfHu/420Qe4+SaJkBU
+ADPxD8t+Z2JToELDUaDRpXXHnjlWei7FrQsUpxTu0XXVwvDPIVbkBwrmbgma/M2J
+AgpDiMRRhebj22bp5pVZhFARNEaOdl6C1zcpOVCbTanMYKw1T6JLp9h1gwdEj9In
+U0OuTbiqbrYywJ/tOPXd3ELSFduSnt/TqMV6b4jIRuS5eICLPfd2RJorqmQlPz1S
+iTl++x7kFVcNING8MxskV6lUCICSJlP7RVlTPqa63nKZFrrRjEYiIza/Cq7U00lY
+xbtBoPdvSNllbumUbZFCPChP6Dyj0T8BmyOIS6cxiruDhByT1Fmf6mnOxat6dJlj
+Bur/tPpxqwM8MqMcRnKS
+=IvwK
+-----END PGP SIGNATURE-----
