@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for January 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* http://nqb6skkiakrfj6mx.onion/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of February 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Hospital fire kills at least 39 people in South Korea
+ Trump-Russia inquiry: President 'tried to fire Robert Mueller'
+ Casey Affleck pulls out of presenting best actress Oscar
+ Trump plan to offer citizenship to 1.8m undocumented immigrants
+ Ariane rocket suffers rare launch anomaly
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ 10 Monkeys and a Beetle: Inside VWs Campaign for Clean Diesel
+ Fire Kills at Least 41 People at South Korea Hospital
+ Davos Memo: Trump and Davos: Not Exactly Best Friends, but Not Enemies Either
+ Trump, in Davos, Mends Split With Britain and Widens One With Palestinians
+ Victory Assured, Putin Seeks Turnout as Final Affirmation
+
+$ date -R -u
+Fri, 26 Jan 2018 08:07:27 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlpq4hgACgkQQmooAO3W
+sm16cw//U6ZbZwMwPgbEhVsN5mguL5BalL/Adpdfkh6fEzJ5SM1MWA61bArNeZrL
++jpAcx4GldY+s9r8wucem6DbQ6bdYTbrHjMKg63rSD7viEen0LfNFfaCEllmjQwE
+OypH6MkwOeEiiglt2NWSoBj/w6CXNNF2+p6xx2N3/kvTQ8+43A37u+Mqgaf6/19K
+4/LeBTCfHDhb7qu2IlQkvlzuBCrFi5AqsTAQ/Pu+zUYJZswE2cJ4cjZfNm1z2vq2
+aSHnIR2D5nEIAShQR1u+q9aTOHjVYei7LkI08qQ3VIAnoUbNu5gjdt5th6Nm3sw3
+seyrvMjzeCQMWJE+ByniOND4tjwf/w5peTi13FZG5PEqGdqagUEpaTHOVr6jIcKM
+l55BWqrrOJ1Au4bDO8D9/7vWTbG3ONR5pDL1oNhGGvqZ0xsvJeUTgXWYkNGejpos
+Pf/zJTBf1WNk8+3AO1Ag8C331qk2mO85DkqhOIWE2klvzVqtEyyB5JKnpSZdv+jO
+MwhcWEXyiccBaw0RQNn/+Akyx1SoYLAGMfh1Rn+2NgXB4c70aTfKNcAdH9pWyejJ
+rGIE5F9UO9EBOJG/zYOcuV+duI0OmIj8KF0bJQf2Z+aBMCEdNEkP4OOrUbKBy3Yj
+DMIu85VbBjCEmaSTjZXv4lH/dJDf1KTWpe/G0Ejum4i1tvxwN/o=
+=7uHS
+-----END PGP SIGNATURE-----
