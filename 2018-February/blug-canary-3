@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for February 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of March 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Florida school shooting: Armed officer 'did not confront killer'
+ Barnaby Joyce: Australia's Scandal-hit deputy PM to resign
+ Syria war: Ghouta pounded as UN tussles over ceasefire
+ One French woman in eight has been raped, study says
+ Winter Olympics 2018: Ivanka Trump arrives for closing ceremony
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Italys Five Star Grows Up Into a Real Party, Scandals and All
+ Iran Finally Let Her See Her Husband. He Was Dead.
+ Donald Trump Jr. Retreats From Foreign Policy on India Trip
+ U.S. Gun Violence Draws Scorn in China as a Human Rights Issue
+ Barnaby Joyce, Australias Deputy Prime Minister, to Resign in Sex Scandal
+
+$ date -R -u
+Fri, 23 Feb 2018 13:19:36 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlqQFQMACgkQr5D/NPDH
+QYR2Gg//bOQCNChz0puE81ESR3/ZBQod3dVRE/jEUPrnV0vQQy3/BB1HJp4TkN6d
+pFeEELRosljMtX+5xUPTjZASL3aUz3y+Se44Z4CRpu6ktBrXxgwL5nbRS44swBOB
+6CAccae6hZrUK8vzqdjXt0u1qDSkKRLvEyDjwu741aesdMGLuMX+yALTCXMdeBQA
+NjkWnobAQs1vht6ndZAbRwCgkzk+K35bfi6Z0pqGyipziW6XO4nmihPwfJUJxQTV
+QiyVe+gLbfMWvCunSniKk4KFwNnt4xiwXGq9u8zgCrJEtdECZtoKVIfeYgh/+HFB
+RLai4aX6It44+M1f6Yva0c9ZniyrLqHXRPlXfde3oTQJT1OXzFupA4tqxL0eHLzX
+doBwXBnRl/qVTNfiF+RPU+Qw8Lf5O8z8/qECW+JK5h1DwhTA8WK/4gZSEKj583OU
+9iebA/dGzhI0qtG4NoHaGMdJml9IlC1EBM95dDKeIzB5HHQtJyBCjaSulr/NSR0p
+QELvwspj1gk8Q1yWoYrxessAMfSC1JT+oDFqojHqhYROHIRZYWkUnhz/4qy6bOxe
+MY+L/GCSHZeWUmjPuDsl0lm4vJD7kmng6Bs7UETukWAEZ0MGJTihSGKSARNs/YTE
+ap7rA+mNlZvANAnLyvYwwmKT5cUcrMVnQpxFcCGDy2eCZCKT/f8=
+=XOye
+-----END PGP SIGNATURE-----

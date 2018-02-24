@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for February 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of March 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Florida shooting: US airlines join other firms in dropping NRA
+ Syria war: Air strikes in Eastern Ghouta 'kill 500'
+ Johnny Hallyday estate: Bardot wades into France family row
+ Italy steps up security in major cities amid protests by rival activists
+ Red Cross reveals 21 staff paid for sexual services
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Raised by ISIS, Returned to Chechnya: These Children Saw Terrible Things
+ Women Are Free, and Armed, in Kurdish-Controlled Northern Syria
+ European Ex-Officials Deny Being Paid by Manafort to Lobby for Ukraine
+ Anti-Fascist Protesters Rally in Italy as Mussolinis Heirs Gain Ground
+ Wave of Taliban Attacks Kills at Least 20 Afghan Soldiers
+
+$ date -R -u
+Sat, 24 Feb 2018 18:17:51 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlqRrFcACgkQ+tPrBeiO
+jW0ZDw/+JQhUNhNp18w2CuRroFN5Qrk2PK1vITet+m5wjutcsgeL0mAZHg4n3va8
+eYet/2HZ/Y1TVnilaI2feDMt7CsKmZUWhNpJHr6AcF8pD4ln4paHsCCdHlD0wtmm
+sB4qf13EVLyq/nuhb2Aw1gPwcUNK22Y1Q5lioIY7TbwrOe46TSuREXt/yXHPUGYS
+AT6PNKsnQzrkngNGCPNvAhLEj+Nt47i3W7ZaXxWnPyLDKMF6/9KXtPRRRyH6N9rJ
+rP89/M8eYocan4T/RtmMTnMgCc8m0OV+fBKjbNJldDlZ3h5jivatQiwJqEI+Fb/Q
+6yki5MrIQ6rMe2FvDB/majVXTwzqjlFOfQL9eZ9vQ64p8Lf35YJnB5XeTXc7x4Wz
+Yg8DQQlHyZbu/nok/mWQpYlKGFmRaO9OslG8jBjSxjNC5jv/fIFu9SEom9hyltyr
+kFPkism6O7GUhBsC1SWJfZTSyfrX/GOJ6vvJs4P6teFWhUTlRaMEmq3LiwetseUf
+vY0qIJ4uBt0on0UT3VU4OW/SMq/o6BJaxOFlVvvfA+TaVWyLoGiysVaV3aX3vUR8
+3sLikaBp1PMOCaFU2xGiuEfnJ8d5/kM3zimPgsW3pmAPQx1IPHjUEDeqkuBgP7lw
+/JwlWZslu5yoPlU61lHnwiKq6O2QGXHz3IojIZi9YOmlca+ot/E=
+=OpCK
+-----END PGP SIGNATURE-----

@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for February 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of March 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Florida school shooting: Armed officer 'did not confront killer'
+ Barnaby Joyce: Scandal-hit Australia deputy PM to resign
+ Argentina foils diplomatic luggage cocaine plot
+ Trump-Russia: New charges for Paul Manafort and Rick Gates
+ Syria war: Russia says no agreement on ceasefire resolution
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ As Donald Trump Jr. Drums Up Business in India, Some Ask Whats Being Sold
+ New French Plan Aims to Keep Migrants, and Far Right, at Bay
+ With Dozens of Schoolgirls Missing in Nigeria, Angry Parents Demand Answers
+ Blocked by Russia, U.N. Fails to Pass Syria Cease-Fire Resolution
+ Haiti Suspends Oxfam Great Britain After Sex Scandal
+
+$ date -R -u
+Fri, 23 Feb 2018 05:36:16 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlqPqI0ACgkQQmooAO3W
+sm04zw//VL0evxiCM06fO4+4fekYevTST2Hs2Czrh+gocc8KPfnFYd8bFB5UhD4y
+4/aUD/VMgJ4r6MUCQc/2mhBF9gF1pRigJZRLGJrM9u1XgUrSf6/6oHnsbpjMs7Sd
+vYQHP4/PhoJ8E5aDXNOwQmlxXD0SuXgV8dipm7AmTM0Np5dWb13bQg7yBRuHFzz9
+n37PzbiFMyBWILXUFvp1f2Z/hkf0JrzCBrl01NPM2yfDrQxweohPUKvs2hlbgjoo
+Hih+6wkgrK4FhcRjZn/UVkWRIeqx7kDAvkXExoK2oGZhQxy8nwQFsLKf21puJkrq
+e98c5osLHqaINIaO0DxV9GzTSQlh5oO+sGtt0N+UDCmojqymXEvZTqjAC4C7dWQM
+qehqS9v7N2lv2+ABOfHfJaN3HLnqMXR9HAVf9llHzxSDlN06f1tNFiVEtoas2tzw
+BiLUs0fLi+3AKdCP15qqXu62GObAJt0YMMOR39NAV03dXW8pOvF4FOjKc0zCw9js
+lHatPcGJSrvsSVqJdyPzdOwc16BEVMs9m1HINdN1PB5dUtfA6uQDJFQgVoLxODJU
+GCYJWCRNn3Bp7RZ4PFMTyintFa/ZvSVjpF6DRUHtqc8BhKofJjTxfdGrcCeroR0y
+BiNmgl474h67NedCTIb8clHmpK30dROmJ3g/A6/I6anEy275/W4=
+=A5Xr
+-----END PGP SIGNATURE-----
