@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for March 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of April 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Russia election: Muted Western reaction to Putin victory
+ MH17 crash: Ukraine pilot blamed by Russia 'kills himself'
+ French consulate worker 'smuggled arms from Gaza'
+ Video console death: US boy, 9, 'kills sister, 13, over controller'
+ Texas explosions: New Austin blast 'may be tripwire-activated'
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Putin Wins Russia Election, and Broad Mandate for 4th Term
+ Makhachkala Journal: A Wrestling Culture That Helps Keep Boys Away From Fighting
+ 5 Years Ago He Was Living at Home. Now He May Be Italys Prime Minister.
+ Devastating Australia Bush Fire Destroys Scores of Homes
+ Daphne the Missing Duck May Be Finding Her Way Home
+
+$ date -R -u
+Mon, 19 Mar 2018 12:28:04 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlqvrTIACgkQr5D/NPDH
+QYRJiA//TITFtDTSQ+TewglZ3D5MGKSJkcfojWD/bUL5DTKoZ3Coy0raPfjQ5YYN
+mdpB6yD+De8TMn9+X+2WIwIUWeL8iCiGH5b6v4yvb4L/XyVICKTdjRRrI/vz0XUY
+EkJQ/ddpTtZljzpeLBsQfPt63IKg37gSXewucl0+xncrSK7NAKlKdcep6Kk5cH7J
+AJDXAry/nG+P3/Fchu5L2wD2p+T+He5H5X7i4TnniaImAKb7vt+SiwE8sekz7gub
+8yGuqGyKt1/XVNI5mq2FdGupZzMUQ5Hdd0VI5ANN2SARpVhBaourGX0zKkZBHYVg
+CSPQGayZlo7s2jHRLV4qw0kdFH1mG4tqBpHY0TSvrnK+WUMgkPYuofvhyNk4PkFI
+kx9R0iO0Nydh5bOSC6TnDKSDA95F1JXEDPxT3Wuf3mDlkh+ymZxWeJVzJPZ9fNF2
+vY/C/DZt38x61NWaU0WoFwx463DTOfyVtKktQFut6g9nZUySYdBgIT0TuBmRNbpE
+9RdBNCwwxIeHQma0T08RwvahCXkkwoekQMcbBAeOHEt5R/GlZzReX0XfwSbA9eOx
+om1n+R5W+G66qg0UejkmyVi6fS52CmjJL3mJWN4JQdWkw2VscqtM65GfW9O1fH2/
+6mTwLKvbmxBRPcLnYUVGGaSIQcnkgVD/8gHDhqOiFRolkkSFcnA=
+=dC+d
+-----END PGP SIGNATURE-----

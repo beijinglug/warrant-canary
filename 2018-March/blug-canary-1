@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for March 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of April 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Republicans warn Trump on Russia probe
+ Russia election: Vladimir Putin wins by big margin
+ Two wounded in Austin explosion after parcel bombings
+ Australia bushfire: Dozens of buildings feared lost in Tathra
+ Russian spy: International team to test Salisbury poison
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ We Are Here for Your Students: Boko Haram Abduction of More Girls Pressures Nigerias President
+ Makhachkala Journal: A Wrestling Culture That Helps Keep Boys Away From Fighting
+ Austrias Far Right Wants the Freedom to Smoke
+ Putin Wins Russia Election, and Broad Mandate for Fourth Term
+ Embracing China, Facebook and Himself, Cambodias Ruler Digs In
+
+$ date -R -u
+Mon, 19 Mar 2018 06:39:25 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlqvW0IACgkQ+tPrBeiO
+jW3J6w//RLq+QIXeE042pe61HL1V22m0rpYSckpsdOm4cf1fBuWYEYv9iBtffJ2X
+lgXmv6JdR5iukYFzdFDljyU4r3hE7MSvaHD5sR93BXTXA7wqpN9KTHZo+S1L7oyM
+IxQdFptSFs7MjPKdDJZX5j+gqx21sQ4byVrH9ZZMelyesJ6cJJ9YJ0cwpxlFQew2
+TmXBpPLdzYtSu5Mus8wy8EbLcmk8OedYMrjRr8W229oiBCgvH+FOeNHpFqsM7UoE
+vRmMxvTGCChI5qdC3/aQJzjP/MLB8i1M42OrVH+LKMDsrDEqFrVjmnDpxJDRDaKk
+G7G+1sgukX+d81NirbAJkI7eIvpiyicinBQGljFVY5QPf5dKzsihWILBE7sWgBuP
+STKYwIblTIEIAmUrLcANIDXqH97Zm6c7tPFpysLn6UFZI5/YATO4iSlmdovUgRpI
+CH/1ww3z099+WD/tIXjA7CL6Pxi42kZuYJxHJO4Xo/kKlaPfz1sV9cDj38vwHQKX
+TPHkTBc09qFLbwZin0rZZ0J/RSwvMf8eOBWPvzsnZTmoq+1W0yhDTRW+IGcur14w
+2yloR68ZbzJwoAw35gIZnMOPyOI7+mG35Z+3O9Jce/DDo4iMfj6IEz03uKG5vGVQ
+DLWL4k9JxbcUJa+3pPOQe1WanYWMEBtB8TwnEnHRGOc8VlmDSYc=
+=yMbK
+-----END PGP SIGNATURE-----
