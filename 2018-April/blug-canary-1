@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for April 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of May 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Iran nuclear row: Tehran says Israel's Netanyahu lied
+ Trump: Leak of Mueller's Russia questions 'disgraceful'
+ Referee attacked by Ethiopian footballers for goal decision
+ Nigeria attacks: Mosque bomb blasts kill 24 in Mubi
+ Critical window for learning a language
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Israel Says Secret Files Detail Irans Nuclear Subterfuge
+ Fire in So Paulo, Brazil, Brings Down a High-Rise Building
+ Cardinal George Pell to Stand Trial on Historical Sex Offenses
+ Iran, Like Russia Before It, Tries to Block Telegram App
+ U.S. Lets a Few Members of a Migrant Caravan Apply for Asylum
+
+$ date -R -u
+Tue, 01 May 2018 16:24:37 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlrolQoACgkQ+tPrBeiO
+jW0DExAAh3/v/b3Qs+86/d3qAwo0FqDgo8TnMUEseheuWJ48USXzxW3rrRjriY38
+OFxuokTmDpgMsbu01WddZNv3Qy8X4T+h9cZYZ0aYNhCZl1qI9QUS5arPn8iO6d/i
+xwsgUm8cAlg3nwikPw2iGpSH5e9VYtZTXvS3i3sFDiOq67OwXhcEzMTu+rdjv8NY
+tC4z71QlattT5OdxIz4MZRJDXAHY5DHJNHf3oW2fMKzm9WLIkWvBAQU4Kk/1GNdl
+Xf8iR6FF4NnkfRupOTiSwfCXOHRNUOyegjqlduSqtJ7lQgGaA8PYZRbB68W9yMoS
+rszTFywllSj2ZcZlVGS9Fn3H1Yd9SaH+YATYc6dGgBhSNnnX4UA/9ko2eNlIWkAF
+VjmNagrLL7FBaYhM5jhVbzDywvJNh9tFgnj3RlRKzap/6dWLwieNBwEZ9B2ORCQc
+e838L8tweVDwCHQIQiZuddQ7a20uTSmlPaenNgiOjt2PwBobj9qlzg7DflrJkbGV
+E4YWaTyZt+Lr92IAuEXjnsDZAh8Y9SO3Tu6eV+ax3LleGavZ0oLHNzajBJD7QQZp
+KiZgtWZK/ZKU0IbDSUglEK4PrJfmM5duVrGEwvoAzYcW8jrZigkJQcJGzCNkMwIe
+GzgwgcbEoRuiAx6pn8icLBEnlS5ymuEshP/2gaF5PY7aUFrXiCA=
+=sL7P
+-----END PGP SIGNATURE-----

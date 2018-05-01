@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for April 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of May 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ South Africa: Ramaphosa leaves Commonwealth summit to deal with protests
+ Berlin set for mass evacuation as WW2 bomb is defused
+ Syria returns Legion d'honneur award to France
+ Cuba's Raúl Castro hands over power to Miguel Díaz-Canel
+ Lance Armstrong settles $100m US government lawsuit for $5m
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Who Is Miguel Daz-Canel, Cubas New President?
+ North Korea Drops Troop Demand, but U.S. Reacts Warily
+ Damage to Great Barrier Reef From Global Warming Is Irreversible, Scientists Say
+ Macron Had a Big Plan for Europe. Its Now Falling Apart.
+ Hans Asperger Aided Nazi Child Euthanasia, Study Says
+
+$ date -R -u
+Fri, 20 Apr 2018 05:39:18 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlrZfRMACgkQQmooAO3W
+sm15+A/9FlIajgy7ZLt8pGG9oH7l9xVuQ3dT5zqtvbm/qEbiPF1myawlfm5FvfO9
+vSAfijwuD/6QXgm4OdEKaXr8EqWe+d4oHgd+erA9oN/yA7k/NrOweFXZ7m+OJ9YL
+t284tV4AgP1OrQDlYuwDtQ0eqJtoxOvj/PBz54e5wKPLBFcvT0XlLnHtVAJ10NVs
+n0Dy1YBrH747RfBnW61iD3oEW697UPK1guvWtYTPDBsfk8HsqGrWdy6s6kYtwBFZ
+Of7eNPOjY/jbOrJVA8gAGw+nMsOuV/hGU4GIEzsPg62LX3U+8RK1ydsI7QqFVigl
+4oTt6JTIqaj5PLbVIqIrzF6VlSMldXUA8FEFrzgW03/tITKGNP0uGk4F1ZQRcuNQ
+Vwg3KNTb5ANG8uIJLXKfBa1qszgIsILPF2UPw+N5orELbtGKigHkg9YbvN4SYM78
+WEAH4tuf2R9oGn5sf5hiE7wnvePCawPCRnf6tyv7qx8SrcgylERHfyCKh6Jr3Nm0
+0wvrbwPBqRTIFUzP8jK7PZn6+GUV56+WAyWyR841Xt5FHL8eOSVCgDxQlpHcSKgh
+1nc4NPwRTOxVqQxS/+t8q7+yfTSVIlY0Wmnxb2jZwcChUhMhH+n3qtAYs70jgBgY
+OxPmP3JJweCExpX0xBo3GZ8RJh6FxwlvkpgXYAtUiWauf2U+JPY=
+=r3x8
+-----END PGP SIGNATURE-----
