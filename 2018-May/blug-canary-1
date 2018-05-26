@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for May 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of June 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Irish abortion referendum: Exit polls suggest landslide for repeal
+ Harvey Weinstein released on $1m bail over rape and abuse charges
+ Trump says 'productive' talks held on reinstating N Korea summit
+ Cameroon military court jails Anglophone activists
+ Cyclone Mekunu kills girl of 12 in Oman
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Trumps On-Again, Off-Again Summit Style Unnerves Asian Allies
+ Trump Says North Korea Summit May Be Rescheduled
+ Florences Answer to Mafia Violence: A Paintings Loving Restoration
+ Understanding Irelands Vote on Whether to Keep Its Abortion Ban
+ China Tries to Erase Taiwan, One Ally (and Website) at a Time
+
+$ date -R -u
+Sat, 26 May 2018 07:24:43 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlsJC8IACgkQ+tPrBeiO
+jW3Fmg/+Ntoh8naVM1QNqCvNl80nsCBKw7rlhSWsKAsJ3I3v9ldhXqQI+kynPgmj
+ZD0S05WlqyW8i9Q3XnvkMMNiorIraPfg/lQxBrUGqo9NwxP6kIosDM0G3hDA5E2E
+hN1J3SuQGUz5+q41+tDzDW4fHDB2+jQ/05hxGuZ67uA6oftcI6l7z66oEIhOWjhL
+2em1yDnnaxEW+kjNavT6lML/VpLigCcVwTAu+M6Q0M2UsGNwzPqkbmpZZYFkgLjK
+5Wl7+uvndsV1mKVZAJs9rl0/yTzr35EayzTt0m77grRb7UbimbgfjhWH8f40R/ER
+YRGQgS35Q4+ZTcmcKX219jebLaRHwtPYWPxjJkQT2UBcqFG09ROKx/ekHbKFBjp5
+stArwh/TvwafzFlSxQJ3Id04mOwEKpF/emgPPnGp0fCMXLNH0Qt5FtHxM65ohNXX
+u9bcNzjdK03QCehYRm8Y2p0Mr86NlqPbAG9g6Bf1TE57WVsf2BYlDIvjdpkQcInS
+o+pGrL2Ydbcx1J9e1fJFZP4QJP5xCfp1vHxJUIog5K59d+s1n4bS9lFl4XWgC8+x
+yqo85WxizLVNOEizn00c8kF6FLTmblx4hP97bkucrhymQb3/x0QcGn9iguTHZ5HE
+uEPcX/IKOcjO73SwRy4ONs9wmm+Y0p3JkmVqS/wAAZeJi4OQNZE=
+=Zohi
+-----END PGP SIGNATURE-----

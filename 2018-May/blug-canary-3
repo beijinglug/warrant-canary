@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for May 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of June 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Cuba plane crash leaves more than 100 dead
+ Santa Fe school shooting: 10 dead and 10 wounded in Texas
+ Shia cleric Moqtada Sadr's bloc wins Iraq elections
+ All Chile's 34 bishops offer resignation to Pope over sex abuse scandals
+ Saudi Arabia 'detains seven activists' ahead of lifting of driving ban
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ More Than 100 Die as Aging Cuban Airliner Crashes
+ Behind Armenias Revolt, Young Shock Troops From the Tech Sector
+ At the Heart of Indonesia Terror Attacks, a Well-Liked Family
+ Rare Attack on Cricket Match in Afghanistan Kills at Least 8
+ I Give and You Give: Venezuelas Leader Dangles Food for Votes
+
+$ date -R -u
+Sat, 19 May 2018 08:54:39 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlr/5mkACgkQr5D/NPDH
+QYRzmBAAgJY3CtZIyHBBKVwyT41Dt2u0iSZzbZEI1/sKi0qud/4px5zOpkkI5XRy
+8k/5a1EULdxPt+9tdygwX7DcuhAQ72Bo/SEamDYoYmWXsZMI6RPxGqW1ozV7oCRp
+sSw1I/h7Ph9s7BAbdQ3B5rflCGHSoZA8GNbiMT5yqcFNAcfGHIRMu+1p8qNpzl0g
+PqPdA5AX5ou9EIcyYptJGHKDLZcNh8uYkIqzqrkgKbXf0SQIf4tunlb/WgZ8CMP9
+icwgRnqM7ggi5J/nUQIR5H4ceevPohh1AA7W95gGGn7w1rAVz3liw56SCrwn0ZU8
+YcHaxWvxzEYHH2ytV+rnBu2+XKaQGUcuLwjvfB06qMKMYXMDqCyGOwtr6oHeCMJ4
+HIUaO6gl+32L9szdC1Kb2vSJY3EZl19SXqOPJhKEwSiCHBut7gpUP2a3wxX/bU+j
+QTSc0wS+pW76T71lCIskpbwWyc+WsQQgbLcdHjB4Wc+uBD3Fhc76ky8OsoiV0KbG
+Qy6o9v+gCJqcQH8k6tLam94GO3N25k2Vy9t1rHlBokANO8X6MrdF4isdVVAxLuFz
+n2JmJ/rV7c1mqPhuWrorurjlZR13tlAYMuRzdpJpJdYWDnoJLbfjr44dAMWjreEi
+jWNE2idbWpFuNL8rtK1aIv9w57F+i60eiFytbWpkQP1XyAZj/oo=
+=n7Uy
+-----END PGP SIGNATURE-----

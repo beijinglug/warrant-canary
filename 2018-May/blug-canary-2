@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for May 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of June 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Santa Fe High School: Up to 10 dead in shooting
+ Israel's Gaza response 'wholly disproportionate' - UN rights chief
+ All Chile's 34 bishops offer resignation to Pope over sex abuse scandals
+ Belgium migrants: Girl shot after police van chase
+ Police shoot gunman at Trump-owned resort in Florida
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Critics Say He Cant Beat a Dictator. This Venezuelan Thinks He Can.
+ London Journal: Its a Royal Wedding! Ride a Tour Bus! Buy Some Cereal and Condoms!
+ Malaysia Seizes Najibs Trove of 350 Containers of Cash, Handbags and Jewelry
+ Anti-American Clerics Power Grows, Upending Pentagons Plans for Iraq
+ Fears of Larger Contagion as Ebola Spreads to Major Congo City
+
+$ date -R -u
+Fri, 18 May 2018 15:51:01 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlr+9pYACgkQQmooAO3W
+sm3qhxAAoBhZ8g335xKaV5PwDnAKX1KOK1A80Q5fpjwgUSqJycFVWE/NgcCerpNg
+7frSXIuaXowVruIyALVwA+aJz2uoy4djdM1vhmDNMNns0nWfk//SkEcPjrfI3+Vz
+RoB2G7AQCCFmeWHCx80xskiXbWBbc7509h4da8Z9OQBKVbVMGWArgqksrD+TQu89
+SkcLvFGoWhQ/cB1YPOJXSVW1GxfXfckoU5X38zRD+PsAi1wFZgS/k/CE3fMZklFj
+SDbRpFWkR1PAx/xSCHSogMVH7tpumfrM/vDplhH91cideVmj/wL+AEpZTfiZpToQ
+RPcyVeCDN1WLsDVo1xdXTR5RpZiB19w+iT8QgBLW/I4p3pGsBMuROIICHpXubCj9
+rC9AfR9evAqXgG1GNFDS/VN3JJjS9lyKgN/HMrZsYBB5SV/stFsXtQiWYryzhivu
+kX4cHMSTOX8a9ucfs0Tg+L8WzpPGEEP9E8Ge7V3Srxn7ISVczi8DwKOZ33FE6lWh
+nK9gs2RFZmOtXEFmGxprVyxGxF0ysl6wYECIN7+IMPoT2LwCJzwkdO+1vpALveFY
+jkdJJFZeKJKih6inp1mMjz7GXwd4TW72eKQkT7NPDb1pt3JFfCtK5xb5DRBHRbKR
+I7JKw/R5LoK4xw3EKEYh/KATXn/PvMwS3d6bkmXykUcLJ0kZtyE=
+=ICz4
+-----END PGP SIGNATURE-----
