@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for June 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of July 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Aquarius in Valencia: Spain welcomes migrants from disputed ship
+ Greek PM Tsipras survives confidence vote over Macedonia name deal
+ Nicaragua family killed in arson attack a day after ceasefire
+ Afghanistan extends ceasefire with Taliban
+ Taxi ploughs into pedestrians in Moscow injuring eight
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ After a Presidents Shocking Death, a Suspicious Twin Reshapes a Nation
+ Addo Dispatch: Where Female Elephants Without Tusks Roam  and Poachers Stay Away
+ At Least 17 Dead in Stampede at Graduation Party in Venezuela
+ Glasgow Jewel Goes Up in Flames for Second Time in 4 Years
+ At Site of U.K. Poisoning, Doubts About Case Creep In
+
+$ date -R -u
+Sun, 17 Jun 2018 07:38:30 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlsmD/4ACgkQr5D/NPDH
+QYTA7A//awn5K7f8VgDBsoAbHmqv6SuQeR2BHRkPPxcCFFHzskFyKJAv0CJnKlh2
+cVi2fumLozYh3kPyaQ56MTriCnQLaQId3mFh4K66HR46J13wgZRMTeojJmCHRyEH
+DzLl9sllRQ78udZaMOiloLapER7QvklFuCaEs7rpH8LdMTuyGTDc/e0Z4gV3gsGj
+etDhvrrPHwOXCG9evyIkJrBlWQwe/ucy5yXZ4/l4RbGv8uSC+ZsWw462Tzbv2kSC
+h/fmD7mq0XnOfnGiNF89LwFPVcRBPAB5gezUkzSF25OrIFxfqpcA0BhmtD+MYmXo
+m0EJXLlXdrq+pl+Eyu7Q1ifK6ItAqh0pCvvUdVOuqd2ABx8tc0sGdQYdvD+8KX4X
+8eHdqTNosp2afGJ9arj01brwekij31/NLFS9nQBXKNkC1BYk05PBU8366YbCvvJf
+mNrXURqaAiJxGrkdRr3JNY22/+dH6rZW8kWz1RbwJEGCGjDnxa6E/AZDHMS+Zlmw
+mh1STVIYFq8gXxlzC70X1T52WIITWlt4ELLxWc+vgRUbNHxRFkKb8OuWnDzDzB1r
+koUPgB6sbkqQAb5zp8mEI1jfC6zICRC5zNl9SwBTVpY/mJ/LMWTpPLqcbssN9zgE
+uq5jj7tITSyJh+3kiyoYpTlJ9LTlB1k/1ZEYEHVgfG0U1VUScRQ=
+=F4QX
+-----END PGP SIGNATURE-----

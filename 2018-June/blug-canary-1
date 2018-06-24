@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for June 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of July 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Turkey election: Polls close as Erdogan seeks second term
+ Ukraine Roma camp attack leaves one dead
+ Saudi Arabia's ban on women driving officially ends
+ Zimbabwe election 'to go ahead as planned' after blast
+ Germany building explosion injures 25
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Turkeys Election: What to Watch For
+ A Moment to Savor: A Saudi Woman Rejoices as Driving Ban Ends
+ Jared Kushner Criticizes Abbas, Questioning His Ability to Make Peace
+ Iraqi Political Alliance Unites a U.S. Friend and Foe
+ Cairo Dispatch: Even With Mo Salah in the World Cup, Egypt Cant Seem to Catch a Break
+
+$ date -R -u
+Sun, 24 Jun 2018 14:36:31 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlsvrHgACgkQ+tPrBeiO
+jW3hdBAAjUKLfz9Rb9aSm/hlQ4oh1o6PleqFv0yY+yUZOsfbEto/hkJYynBaFzw5
+S/xQb0gE8ZyxwfbZmH/DiTTkJyoEPwoAwsqAtI5SvXp/fiEr6HBRKzs17oBO9J2k
+9pRwZvSy6xQfwSH/zu0ZLyDwIeayJewHBfZXs5CC1CnxX8Z9RHnTT5MVia6a3m4s
+HItQpv83OskYyHLu00KzKuMKR9XKq7BEeSaNKhKn9JMD8ICgfkxtmxK/hxIQy9Ik
+hlYz9EJGCscVY6lnuZutWdRTa5EJSo4L3o61JZn7YN+dq2jzCgbAxPx/y6tNJZr8
+y6RKwwTYcUNdjiwUErM2+q+L2RCyIzTY7pujldCs7xDWxCQXXTw3ldGnECiRSZM+
+6Qkl27z8nE38iyK3EHZdGylFHOT29WeInkErOmcYo+57pOpKFU2OVQtHq/D1ubGK
+eofK+UBAsitF1JPdZEsmiHZhNWdYAl+VbQK0QBgbbNWipvkyE3birRjfKA0g1Auk
+Nx76X+S/5jm+208r+og82kFi2ZcrPYX8oYTRme4xKadBNanyNEccqAgxKMc3n2cx
+vzkNmDmcJDdBD2cdgSweTzdTISbEE3HY2cvesVu0UwI9dDPXgVvcH7PmyMo3rETT
+ZjlheFrFKeZxty5BP9sEpy+D1wdcD3G9eCMcBjQbfRUbOjxWj8k=
+=fE6l
+-----END PGP SIGNATURE-----

@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for June 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of July 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Trump puts 25% tariff on Chinese goods
+ Pakistan Taliban chief Mullah Fazlullah targeted by US strike in Afghanistan
+ Eurydice Dixon: Comedian's killing prompts anger in Australia
+ Yemen war: Government forces 'not attacking' Hudaydah port
+ Attorney General Jeff Sessions quotes Bible to defend immigration policies
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ North Korea Film Glorifies Kims World Debut, With Trump in Starring Role
+ Workers Flee and Thieves Loot Venezuelas Reeling Oil Giant
+ As Saudis Go to War, the Crown Prince Attends a Soccer Match
+ Let Them Eat on Fancy Plates: Emmanuel Macrons New China
+ For Mosque at Heart of Grenfell Tragedy, a Bittersweet Anniversary
+
+$ date -R -u
+Fri, 15 Jun 2018 14:55:32 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlsj06MACgkQQmooAO3W
+sm1mcRAAyKK/9SAwLxOHKPZd71QtPk43QYPwtZTG8b2umT3AnQmWK54+z25jvDiE
+k7v3Z+1Aa1jLWWVPx5DMcpbeTUVcdnUM1Uqx6fqZrQvHA/oF40XFvVhs/EKO/I3+
+4J7i5qEcisA5tzPj3GB/2tS7tIpnGE6y8dKY3/e2OG0PNnaGeqw6NhB+sbh0FdDl
+ZPSYkAPxNVbF/9MlllntiCleevpvPnxRLzoczwlCklDfJzpnMo0p6XFQhh6bdOzA
+qxIFpOh9/ff6PwGj4qrAaUuwvSQ0w36LX4tqquOV3o36dIsTyCQVAm6kjI4nh53X
+i2/RVtRjd6IPJuWkEjfOY3tsz8OQY6zEgB9LOxxXaGwLEke2ndJVe7QaAmiYlqHu
+va5IC5cgNrjccPXvUCl08j8rfsySDeInMr6If4gvun32aCbdMcvgrLdmLbKl2Umw
+4WI76z5jm4tZn5ASvfjGeEB9/dr6Wv7vdftJnMeOaw5JJSIN1EMt4mBSZ4lehh0h
+o5tAsfHTyTYOMydBkYG7qtScf4grsLLoEphZ/IZgGrI7EtNrZpM+r9EwvBeP4Dln
+u3RTthASIdzGbMyubiM9nt+P1rSSJX6neFmtRYK3Vz0L9OU7/T1VNn+ALJbrWfSH
+rJiRwRQ8ZZQMWGnG8hn8wORtFwyTVPnDUlg34ZaqMxHJ7Skx6Yg=
+=/TIt
+-----END PGP SIGNATURE-----
