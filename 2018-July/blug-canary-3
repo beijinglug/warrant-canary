@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for July 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of August 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Trump-Putin summit: US president under fire over poll meddling comments
+ ECHR condemns Pussy Riot and Anna Politkovskaya cases
+ Kim Jong-un blasts delays in North Korean economic projects
+ EU signs its biggest free trade deal with Japan
+ Kilauea volcano: 'Lava bomb' injures 23 on Hawaii boat
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Trump, at Putins Side, Questions U.S. Intelligence on 2016 Election
+ Violent Extremist or Political Candidate? In Pakistan Election, You Can Be Both
+ News Analysis: For Putin, the Summit He Has Dreamed of for 18 Years
+ Rio de Janeiro Dispatch: In Rough Rio de Janeiro Neighborhood, Ballet as Anesthetic and Escape
+ Dozens Swept Away in Myanmar Landslide While Hunting for Jade
+
+$ date -R -u
+Tue, 17 Jul 2018 12:25:13 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAltN4DsACgkQr5D/NPDH
+QYT6yRAApBBMPSodZwE8KfEryvoQ5EehYwOA2DzwCtDOFvv2Rre5g1/lzdz5191T
+qE1ihEPLV+0/sHpg+nL0NUkdSxfQBWqTFByCK3L4PNdMFyMaLqNcDyimlEH/Yn8G
+hWgkv8PhxdOtHcu9zhshTSlgboe9GiFc/ZvrL38iNq8IucHC7P4Cpyo/Tqus+xZC
+r6fiBPA3Pqk+m0gaq/PDy5QcO7EtavSiWL7LOwv70qGDvISI1fYhtEoq/13uN6yF
+8b83UUX9eyLAoy/gqbAL0LYM/MkopIxh6PMs7nydCLUCnmahROQfEVRK8CRW1cdS
+S+QmuCnC2T5JezuFfObVtiuPZwSbikC/5Ut+QovuqycZWaxOPfVgixSfV076A3AT
+7TfEty9s19WgIp4XIJg83Y7QfQFXa60bz9w4Ldz4BfVbmQ96VDVoqSkCMFj1hcZM
+EpHCWv1yvlMLzfAvlRaNexP1iEmhoE2E7H3xYoBVRI+cROg7UQ/KlsV9DupwcK+h
+rJDhM+lsxq1MLo69b/ss7hssk1DR0g7YJKuOcwKnA5revAK80uxxjg/EL19TlZ3w
+v+/HOWve2pNAxCwip/SC/cGMzJBORfGaFZYomBNqXuRPFEG40pquiSuyWDEtms2Y
+jGpGe6ZlN5lESkoanzaWUL4aVpT08VZy9YEWxr8E91l9Kqfkn68=
+=burY
+-----END PGP SIGNATURE-----

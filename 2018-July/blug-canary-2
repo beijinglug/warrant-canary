@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for July 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of August 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://feeds.bbci.co.uk/news/world/rss.xml
+ Trump invites Putin to visit US
+ Neil Prakash: Turkey rejects extradition of Australian jihadist
+ Dr Bumbum: Brazil plastic surgeon arrested in Rio after patient's death
+ Catalan case: Spain drops warrant against Puigdemont
+ Peru political turmoil: Supreme court president resigns over tapes scandal
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Israeli Law Declares the Country the Nation-State of the Jewish People
+ Erdogan, Flush With Victory, Seizes New Powers in Turkey
+ Putin Says Trumps Critics in U.S. Are Trying to Undermine Meeting
+ American Accused of Being ISIS Fighter in Syria Faces Prosecution in U.S.
+ A Cobra Strikes. A Magician Is Stricken. Middle Eastern Foes Unite.
+
+$ date -R -u
+Fri, 20 Jul 2018 03:48:06 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAltRW6QACgkQQmooAO3W
+sm3i9hAAx/V4PgdiUmYQslGpY2706uHXyoeIwIgfltkxsYA6Ni9IYPTRn2+J9Zv0
+jbjh4mPsZiiiNbD8taeYClqbmodVGW53UXMRr+J7G87kTWCU2lL0NaCqWnUJNDCV
+P7NyBTpYSaBDMKPCIPS2hQ1NxXN629d7YssQYBQKVjLurzkabowr3lXQ7tinZKc7
+FIc2LXE60zBikkeItsQQMGMCKWv5KTCfuN09YKD3NYg8mkUe0GMtajWzLUpjpXmu
+foLrNq5/7bxO4+sNK7H+DJBswqvlgmPYJHRKRszkGlt7j2k6afOvFW9WvVAc7RGC
+FX0mkWhi2q43KZwxdwXsD1d0pQfUSDoXGdnXrrIHOFEO1OaHuT3fiSxWjRnsmom8
+Q7/B896DKKy1my+cqGjcL3+xM9jfZa2jH3ZSt/1aq7PgO4N9Ux+wBa9nfabt2EA2
+D4Rn65b0a9+GsLc07YMYtPAY2oS6qg2Mn/3ZrnZX3TIMyaycL5Zm+WpVGAalUKvu
+g1o4NWej8nOufZSkdmRN+iSWltZOufYr6yqb8K/s/SvlZzCv4jHE4+7XFg58gVO5
+5kJAao/wGsP+cD1IJjmdZW8yiUxJu4Zd9A4s+WV5vOHHbDw/ehROJi/n6LQywD3+
++DO85J2GFj9tTm+7mtwS62gEsIPP3HuHD0TlBjs0b1Yb6SW8pZI=
+=qwar
+-----END PGP SIGNATURE-----
