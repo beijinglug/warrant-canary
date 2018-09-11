@@ -1,0 +1,100 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for August 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of September 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. The RSS Feed from BBC is now offline. It has been replaced by
+The Telegraph.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Kim Jong-nam murder trial to proceed as judge rules evidence points to 'well-planned conspiracy'
+ Fears more victims still beneath the rubble of Genoa bridge collapse, as rescue crews work through the night
+ Aquarius ship arrives in Malta after migrant-sharing deal
+ Parliament attack: Birmingham community where suspect lived thought he was 'normal person'
+ US raises questions over 'abnormal' Russian satellite in row over space arms race
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ 44 Small Graves Stir Questions About U.S. Policy in Yemen
+ Qatar Comes to Aid of Turkey, Offering $15 Billion Lifeline
+ A Quebec Comedian Is Happy to Offend in Any Language
+ Italy Bridge Was Known to Be in Trouble Long Before Collapse
+ We Are Tired of Crying for the Dead: A Stunned Genoa Mourns
+
+$ date -R -u
+Thu, 16 Aug 2018 09:18:57 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlt1QZ4ACgkQ+tPrBeiO
+jW3MlRAAk1RAIObBMJOd2NejwBmMY50PeGTUXQWYf86BDIUM8RDKs3ZVzxAqjejY
+2a2t2uwmPqYDNKwq/Hydt0fAbpRf4WM/FNfcBvtf/TLxGxSSVFwIlj+10Zlf0I3f
+bq7jO2y8uBAaHy8rhJ29ICjoNIacTSdlxPmPOnMIQi370bV4FUHFMuIjclK+YUlO
+kv3zsJm0tdds4uDI+xy2QgulNNISmGQuaiSKTCY7fVXafFc133sqm+gvDY1CbyW/
+7Yq6WZ7Td8VBnVJItjT0TQL27xirrJ4nFcqGKVGEbvl3UOhhDDZ5IELRU8NBIQOE
+hC13HMpyWtbwGdD34MR3PhagZY2VLKBBUIulij+PaQMdrLoT8MjMn+F7WtcMSge8
+7an13WBoq0MaFnDy+7jZH950ykAlmgq/9bBQ9usHqWqOkPWXIWHwur07nySl9k5C
+7M+0I749QeuY14Hxs4RWvS3abIuKdaY0dOyiB6YNwvU9z0yVajqFv7ITl/Y2uIql
+NTlWG9/4yofQheRNiR/scv5BFcy05UCjoGuPKPg1N3f/IDRQHoedn0axOKnfFJcf
+ioLPKwA5DxweZ1jO3gcKpKDyPY0kiX3a5zsEPd9J1ygW1ShgfoU6xRzyGYvrMj89
+IV3IXyxo1WUtw7rR5yjCAsjjJhdnwfP8AxJolT+a/Ab7moOzhNU=
+=6tTN
+-----END PGP SIGNATURE-----

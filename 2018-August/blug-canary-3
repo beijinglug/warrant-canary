@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for August 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of September 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. The RSS Feed from BBC is now offline. It has been replaced by
+The Telegraph.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Bicycles revealed as secret weapon in fight to cut deaths from malaria in children
+ A robot designed to replace migrant strawberry pickers will be ready by Brexit, academics say
+ Theresa May shows off her dance moves during Cape Town school visit
+ Rise of the 'rushed supper' as increasing numbers of restaurants put 90-minute limit on diners
+ Florida video games shooter David Katz had history of mental illness, records show
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Vatican Power Struggle Bursts Into Open as Conservatives Pounce
+ U.S. Commander Urges More Transparency in Yemen Strike on School Bus
+ Australia Sends Migrants Found in Crocodile-Infested Waters to Detention
+ Myanmar Generals Should Face Genocide Charges Over Rohingya, U.N. Says
+ Duterte Is Accused of Murder in New Filing at Hague Court
+
+$ date -R -u
+Tue, 28 Aug 2018 11:36:48 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAluFTUQACgkQr5D/NPDH
+QYSj9RAAol352qcgAprBYPKmy/YhJR3R+JowFevodRjhnwhkUQ0AiWjcmyyS5H1H
+66riOn1JdL4254GG2pVdHaRCofkiUsLo6tTIhRQMMi25rvC2jwqBxBBqWnVSQV/X
+i2n3nXBOXPSKwR2y2bTCh6XV7SgxSiQfA3yGAC6XnbGbp1hcCir3fAYUxPv+ceq/
+c1INaC2FC9CxHsDumQNui5rpriD7cULd24tM3oU+ClifpIgz2yKlsP2Df0F61ykL
+DsZMQPHcyYq68h9BqUFxV3Pk5/91xaRWMreO5fNY6QDVPZYIRNwOm0zwr/57+axf
+14hTfarFJb4R2YfI9X5g6rPvGCK//fWISjspZ4/Qolxu6yqCnFU8r+wD9D/1UNrp
+W5TGE746WsSk3wr38dVMfjhJNqmlM7v4q04oSvCJQ8wZf8grFlXNQxvcwtrm8KQT
+iZKNrwgL7Q4k5xdlosOz5giDlavzu7+Ah6CHiaQEBN5wPhjKMNo1EnxUvUcQSI+C
+twcALt7c7WuIRaQT4x+JGssCu32iryuDq18uvQfR3NEVrqEW9yQAXIN1ogiJH6bC
+uv4yvFJr4P1BqLHY3aKFK2HG9m1zJWFqSDbKgjI2r52wj5O1fEmHAxELRa7SE2gZ
+aYphudcgMU0YJe/AGwYT+ZwWhqH9m1L8ok4OpLUiwnQJGb14HPM=
+=rIOg
+-----END PGP SIGNATURE-----
