@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for September 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of October 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. The RSS Feed from BBC is now offline. It has been replaced by
+The Telegraph.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Sarah drops out of top 100 baby names for first time in over a century
+ Dozens of child migrants forced to sleep in police stations as Barcelona's reception centres full 
+ China tells US to withdraw Russia sanctions or 'bear the consequences'
+ Top baby names in England and Wales for 2017 revealed: Is your name in or out of fashion?
+ Five people, including three babies, stabbed at New York daycare centre
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Italy Loosens Vaccine Law Just as Children Return to School
+ Chinas Sea Control Is a Done Deal, Short of War With the U.S.
+ Tanzanian Ferry Capsizes, Killing at Least 126
+ U.K.s Brexit Plans Will Not Work, a Top E.U. Official Says
+ France Bans Smartphones in Schools Through 9th Grade. Will It Help Students?
+
+$ date -R -u
+Fri, 21 Sep 2018 15:04:43 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlulCNcACgkQQmooAO3W
+sm3sChAAna7t3EjxWp80I2qJbexEMhKKh6QhAbRurAi9uv6w5ClEc8iHhgySfTUP
+SrVKuzHGqzYHEWOEcRq3XRTbyBi0PWWXx6w2NWJvzTn/jz0YTfRAjPOvWcbBfZaa
+2Z7qXPbmx3EzFfe7E007Bj0HUBUS1v/QP1BZNuUoU3CNX0ea9Q3uDDmFcj89WafO
+QQQFhd1OmQS5T71xozZU/vxE8WzuOyGT0yv8X28p+M0G2V62SXDAUS6OU/d9sb73
+E6j7+1JqgY+ZgqmzTGARifZI+9JOefGmEleTshnsgMUvLAekiaP6aY/yKALQuJtM
+L7ChBTmEXbTuAHdPeKY2PRje+c8frQaulQe67iBb8ZZ/XSvvcEG8GGxWVAep9Tqh
+b8fABQ8I+XTQpDxM74WFqqLA2Sv++84DWnVVtt0obTHXZeSOrcKuLpj0YS+sX2YM
+OycQKiSks+RqYMu2w6mA1Hyp/PDUDDUktEvpfeKa6niPDEMf35iJWhYRv706LOkO
+V2e9G2wHtNGZs5mH4O8x6y5Qkb6W3x22dyaJNZMetcOfE0Xmppc/AC7xAsgZZJw9
+2i3uI1Li0+VC1NIvf7BLEPR+yRSgWqrykVT9k1mvxP53snH1/HDYN5WgxUpV972V
+qC0c9TT213NGVj4BgtMcjcG8Aihhz4fQlHqB5EFJJPf5ONHRXmc=
+=xxq4
+-----END PGP SIGNATURE-----
