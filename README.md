@@ -7,6 +7,12 @@ If a bird flies away, SO SHOULD YOU.
 ALL THREE canaries were fed, see:
 https://github.com/beijinglug/warrant-canary/tree/master/2018-September
 
+**Note: The canary documents of September contains a technical error.
+The Telegraph's RSS output contains an invisible trailing character,
+0xA0 (160). This character often cannot be copied and pasted correctly, nor
+it can be rendered without problems in webpages. You should always verify the
+raw files from the repo to prevent failures.**
+
 # August, 2018
 
 All THREE canaries were fed, see:
