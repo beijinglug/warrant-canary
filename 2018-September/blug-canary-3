@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for September 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of October 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. The RSS Feed from BBC is now offline. It has been replaced by
+The Telegraph.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Rouhani blames US for inciting deadly shooting as he prepares to 'confront' Trump at UN
+ Disney redraws first black princess after anti-racism campaigners claim her skin is 'too white'
+ China steps in to help rebuild Barbuda as West accused of  'benign neglect'
+ Indian summer to follow washout as Met Office predicts long spell of 'sunny, settled' weather 
+ Pictures of the Day: 23 September 2018
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Nigerian Herders Face Threat From Farmers Competing for Land
+ Japan Has Enough Nuclear Material to Build an Arsenal. Its Plan: Recycle.
+ China and Vatican Reach Deal on Appointment of Bishops
+ Attack on Military Parade in Iran Kills at Least 25
+ Maldives, Caught in a Global Power Struggle, Holds Presidential Election
+
+$ date -R -u
+Sun, 23 Sep 2018 13:34:14 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlunlmkACgkQr5D/NPDH
+QYQ9Qg//Y64XdwwVMZP46yvf6aE1M+BMeDAvHjceL+CfkkASII58PjnIFuIq+SDz
+rVUmwCZWtlkxH4pehk5eTRzdhaa2o5jBq5f7/5v9hS4zncwq82PfU2lq4ehd2Med
+nHXiZFS5N7dUOgiXS3vn1mCWtaoV3YsAwrHBxO9M1anTTV/+WVLatJiTIEPDTxDl
+9LrckaHlmoYJzZMc+xG10k2nsWkALUjWBTK7oQq+XmqzzyHr/qbiDf8y4hVWNDar
+zat0HTlmUzaN2VYr7ld3jxWFk2tqQevRIEU1AW4ARh60mEjImYlT0Izst1s+blT7
+MzYKmH9xRs8BIJ2LP/ctMhiDoecodd7DQtwlrHJhEayA9tcNmCqulq1Uqp5oz0U5
+0aA9aXqCJqI5FLUFs3CgEDGtPOYLAD8CBY0bL3zM0HufHOaxXyOYpUbB/XQ3vZDt
+uP9u68wVKw1/OAl4gOixGXxZr3LLZ5iIsqqQAUIVBOaYRTfhxtk0MEPr68auzp0E
+XMhP6wKLCuvs+iEm0nc5NQrQrf9l59fQsm4nG5Lxfh0gtj+vOdaxDlGrWj5uMFVs
+1UM0C9aTIQJGybv+NbIeQ7HO2S//Vgmqdil/fJ9hfhFiL+i6m/5jmy1vJCHtwiX9
+Jrks4mQ7ZXgK6U3SXCUv/33ZGT16aToSOH2P1UOGyM/3PZ6fg9Y=
+=80Jw
+-----END PGP SIGNATURE-----
