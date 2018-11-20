@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for November 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of December 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Sinaloa Cartel leader shocks Chapo's trial with allegations of decades of governmental corruption
+ Mother of teenager who took her own life after rape trial 'appalled' by girl's thong being used against her in Irish case
+ Families shocked by sudden closure announcement at specialist Perthshire school
+ British Columbia moves to phase out non-electric car sales by 2040
+ Grenfell inquiry 'harder than the night itself,' says fire chief
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ U.S. and Brazil Chose Similar Leaders. It May Lead to Smoother Relations.
+ Russia, Which Has Tried to Manipulate Interpol, Is Poised to Lead It
+ U.K. Coup Against Theresa May Falters. For Now.
+ Xi Visits Philippines to Celebrate Rainbow After the Rain With Duterte
+ A Tulip Planned to Rise Above a Gherkin on Londons Skyline
+
+$ date -R -u
+Tue, 20 Nov 2018 23:26:45 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlv0mDoACgkQ+tPrBeiO
+jW03sA//URvbc4BSlDk7pZ+7SUed22BYEgu5hoGNUhtCU6HT/pCkTwuoZTE9bmpr
+f41+SyQaHa5VZBFcYPS6zaSHEQY/rO/u7Sr4e1z3dVjnG53XFtlyH09ewhWO9oFj
+TEFR6lmy7mQBR3VD6oRWVoccufXHGLscz1cKQ1zptjinhAbphdOYxEEYyRBEUCEA
+Fn+IFvqAyKR18nST5h4yoh5D4Le3hLGwxFSlPPOEMsfRrONuDUCb+8gJUzEzSHfL
+cGM8oWVCaAM52rSKfMnYZYfndCn8BTnAnyey9zSdV6wf7pjBwe4mKuf9RxCw/A1W
+0gE63vFq7RHmftparLqYcMqF6QGpl7fAX3nT5v0n9Eop8o0Weillm4IXDZgDy+/w
+p9gDCYHocIvb+wwGOSLMldg7cSbKVsQmNSRTdhujcrdYGJzZjG2pF398N5F+rt75
+y846xueXI429ELmdkPLiNST9YTubq0TkHr/UA2tNExWcQ9BSGhnzyPc+LziYA+ZD
+qtj5Mjy4Oya4TRkmIm/E+TspI6tTt/YA8laNhmiorRWI27MQOsqUeLPvmsHLjPH+
+siWFmkogMFt4xSayquDoNMAHL/Yled5W22/0okXB5xKtUdGG8NNQ/ml7sIi0aDfu
+i/+5kS8ctf0uIGGjeIzF3uzccnD5xrz1Hh+Xcgpnikla1x1K4wA=
+=n0d2
+-----END PGP SIGNATURE-----

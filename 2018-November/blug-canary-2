@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for November 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of December 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Lord Lester harassment accuser felt 'revictimised' as she watched 'wholly unfair' peers' vote to block his ban
+ Lack of toilets at school hinders children's education, report warns
+ Khmer Rouge leaders found guilty of genocide in landmark ruling 40 years after fall of brutal Cambodian regime
+ California wildfires: List of missing passes 600 as hunt for victims continues
+ Pictures of the Day: 16 November 2018
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ At Brexit Crunch Time, Theresa May Takes a Pummeling
+ Saudis Shift Account of Khashoggi Killing Again, as 5 Agents Face Death Penalty
+ North Korea Says It Has Tested Ultramodern Tactical Weapon
+ As Migrants Line Up, Hoping for Asylum, a Quiet Day at a Busy California Border
+ Brexit for the Non-Brit: What Is It, and Why Cant They Get It Done?
+
+$ date -R -u
+Fri, 16 Nov 2018 10:46:35 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlvuoCkACgkQQmooAO3W
+sm2YPw//VzwrlO7SdEZpLJbRGKYoutbOss8R1GyD+fGV+LsAJSyTDP7/edDY+unD
+0nQc9zkW5aEiKSI9c8Hl/fHBAKEViuiEVh38BpiR8DW5kdixphtVYfgXc+HrbTuS
+qcY26fW3naV73nMuD+VVjJ+4EhmI4nA0U6lH5Z8JTb7yxyILz4bWIo0eKWJiStUx
+5sFW+NdflEBFpMm400blgVrxMpLRCL01Rbjtq3wA4CuyQrhqcL+xrhgPEULfBz0S
+9odhzzys/JmvvDqc1qPP5GZOuMFxvbGgTERovO90Pgyz7qzCEAYKGnsL/RqpGQK5
+hD6SYFxguyKL8071MUBdOP6y7C9DGmFqkvuqST1FflB6PaNwPqBk4kE+eOQnGvAh
+3kKUs660JMsNMGT2qZDC5JeFfATnX5R6gxtFtXKCm6pvjukTyWUZBSO1dhA2ayBY
+paMhUQBUJBLv4ULSzz+GVSc22mzUvRME8xTgOs3SWDrzrhakrQ388XoTj8P3/+zk
+jI7d67ODWr2TQIPebW5TTM1ih4LTF+2Z0m5q4+jOhRJLfHOwiGieB/pr2IF0UvWb
+S6FG8rugNt1xbYxFASkVmraKXMF60CwnO327HL+ZmJyXcB+pJ8Cc/9VifJKnN4Vj
+p768+6t6lco8oGEWTjlOUqGVjKK2MPPcaS+XRSDsNxbvX0LLA/E=
+=HZ3+
+-----END PGP SIGNATURE-----
