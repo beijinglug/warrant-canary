@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for October 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of November 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Liam Fox and US treasury secretary pull out of 'Davos in the Desert' summit in Saudi Arabia over Jamal Khashoggi allegations
+ YouTube videos teaching criminals how to make bullets sparks rise in antique gun use
+ Foodie foraging trend fuels sharp rise in the flouting of picking bans
+ Doctors sent home sepsis sufferer who told them he 'felt like he was dying', inquest hears
+ City worker banned from every London pub for racist attack
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Saudis May Blame Intelligence Official for Killing Jamal Khashoggi
+ In Shift on Khashoggi Killing, Trump Edges Closer to Acknowledging a Saudi Role
+ An Afghan Police Chief Took On the Taliban and Won. Then His Luck Ran Out.
+ What Is the Migrant Caravan and Why Does Trump Care?
+ John Kelly and John Bolton Have Shouting Match Over Immigration
+
+$ date -R -u
+Fri, 19 Oct 2018 04:33:00 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlvJXqsACgkQQmooAO3W
+sm0fAw/+P/REYkZblBrsgCiQqpJWFhz+gpKZeIrPOvGG3mIqWI4fw5FChFMIYgh1
+jlwNUVTzkGcZ2MrNPkWkPCIVYzOQBwQu1HoUeCj18sLcT0pF1AIDn05Bs9YhQXRE
+AiVQeCAuba3+AO7tTux7c17XUPKYb3GGYyCyaameAzbZw7e8sPWbEQXnyzxbV/gJ
+Su02eY5njpT6vPv1PMH8PEGunNtCTIEPkMoJrS654Fpy6+e593G8ycKLcCasTHTo
+Bdg5V/puR0AymKAZx4bAIwdhbiuHf8Qkbrzb31XUP45/iWVqE9jA/uDhE+jhEI5b
+4mg6xf4VvrA7w9NQURphzT8KU2cw5MDnNmEXWSuKzwp8vuQNFTFJL5hB0DuwVXSJ
+bPupxaNur8U1Zz2/Beuba79LvfLBB6aybUv6VRkfaXmDmQipoymn6U3pkpERPe4e
+pjI6O/hKHMgJBPYwOotQwz8YsjRLV2RgBdW9Z1uMPzOAbmjCcFB1owcsf9+OdWdQ
+hhjL/KoO44zkMt+kR+NvWwQYCCg5ptJoUitodglpdAXpmAayMA5ZcGfFReoK05gs
+upAuKZF7G3rLd7Xx4mkQRc2uP2gNAxVnc1APaftG74L8cmhKjzO6IWsX/q5QXY8F
+v2np6XPaD6am9eJ/QuLlu1VaX+MJ6BHnwyhvypKg5Nev/eGXLtQ=
+=vkHV
+-----END PGP SIGNATURE-----
