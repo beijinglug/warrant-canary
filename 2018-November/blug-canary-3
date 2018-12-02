@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for November 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of December 2018. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Mexico's new president announces US migration deal - and thanks 'friend Jeremy Corbyn' for attending ceremony
+ 'We have your ring!' Police seek couple after Times Square wedding proposal goes horribly wrong
+ Toilet training is being left to teachers, says Ofsted chief
+ Treat Easter IslandMoai statue at British Museum like human remains, says international law expert
+ Cheap clothes last as long as designer items, new study finds
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ A Generation of Widows, Raising Children Who Will Be Forged by Loss
+ Yellow Vest Protests Escalate in Violence, and France Scrambles to Respond
+ Brazils New Leader Wants to Ease Gun Laws. Supporters Are Ready, and Training.
+ In a Divided Bosnia, Segregated Schools Persist
+ Global Leaders Praise Bush as a Calm and Vital Statesman
+
+$ date -R -u
+Sun, 02 Dec 2018 06:22:03 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlwDfEYACgkQr5D/NPDH
+QYQa7Q//caBJ/PwmWKHWMph7zbM7bbfpgDTX9Ok+qdNbs1XljcvVELX5K8/Yx4FN
+pks299UUweUCj/kMSvzJwlsV5I2RLEL8tGzhwTozNdLibORx5drVB3/Cq8yeYZDB
+lpjJvtSmOFCl5EV4BGKB5K2rhWgZZ5MUWdIETqGgnUpk6Ye6pk3hNvCFcinTwwXl
+33GlKGfPQkGNc6nt7y/97xLeICKqQRv1SEn55dL4VlvoQdTsl9KGTPJFEcn81RDP
+LDSaRqH4xENaA8Ybmkfs/N+OuOssIkwMirYL7iuKKVPoj9XRmM2n+kN3XUxkBuGf
+TkdIjkX5OVFX+sH78zYsfKx81mhamQT5WgN4Jj7cN0miMvv3tOQbeuLgKuHDJ8BA
+6V4T0bfRm4xEAfECkskSu1z5/JgAkS1qiBa4difnX2yNqbC75H2vIjvYm4UMoNIt
+w9+sBlVnrwEW8+FPB/5asAf72QRZ8BhSFxD0f/UmcRYD8MkcnYEUzksXrshIARVY
+Uyyz3wykZP3pZ7OlJgbKipNfY+fcMpoC9icTW7Sr/cJ7LBVC8FD6bCV39gM22HQ1
+AhrQGTz1tPUsQBbItw2pksrIzxZhDFg45j3YorCz9229QVF/p03GwZuzX9T9a3cV
+p0f5G56cPkFF6lMyztJYU/uxAdFjMnZpleqYYe888P1XGTWM3LU=
+=nMb0
+-----END PGP SIGNATURE-----
