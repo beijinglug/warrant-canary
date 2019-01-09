@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for December 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of January 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Hundreds of residents forced to evacuate Sydney's new Opel Tower again after 'cracking' sounds
+ Tributes to British couple who died within hours of each other in Australia
+ Gurkhas son threatens to sue UK government for discrimination amid passport delay row
+ Pictures of the Day: 27 December 2018
+ Search for British cruise entertainer who fell overboard from Royal Caribbean ship on Christmas Day
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Trek Into Congo Forest Reveals an Ebola Crisis Fueled by Violence
+ Irans Economic Crisis Drags Down the Middle Class Almost Overnight
+ Syria Faces Brittle Future, Dominated by Russia and Iran
+ Japan to Resume Commercial Whaling, Defying International Ban
+ Afghanistan Likely to Delay Election as Trump Presses for Peace Talks
+
+$ date -R -u
+Thu, 27 Dec 2018 09:53:29 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlwkoSMACgkQ+tPrBeiO
+jW2MzA/+OZo4FSBgGJbgs0fs23VU6QH81WU4FaLgaNrr+2qgTwJG0SZ/dgqDMLTh
+ESmF3hbf7INGhxR+7kbCwybQnkW+U+FIKHd3MEV2v2Sjkzc2GLuZvqa2Z0Ekh7VG
+k7/CHKhWTvsm+avwzJe7RrvabZG30zzNtMF9Ab21mI8kgwNCDeiGTXtriqCgH6gS
+FZD1Dt+06cTwsQt7evIXc7+jxZ+rI5iO+W5WN//7X8XQKrmlB0eaJOmtt6/yvutW
+lE3xZPsZtAxjVnUQHYBV38sjzoYHiJzw8YTBC7qnO1eC99PtKzBvGOw7XXplmB+I
+h3pclTJamtlZ9Kahk12hwKt4C+4b+7EWDkcmk2hv+FAlZaHFFxoL+Ihe81ZEUl/O
+822k6stlJMpPbW50ek50qnvxhnetv2xRlFLOopVAJZIqf97g38tvPgcbVNhSY0s5
+sEx+1yWRjmVd9xvkVfCkK7eF9tGnAJvaPJo3vEX66WbxtgSk/xdCQ8Uyr1TN9TaJ
+czZhPs3efWsqv9UzgyV815xlcD3pJS8arMRsSJ4Rpdeg0HfIuU86jC41NzjcbJGc
+A6trypcfjCVeu1uecUO9hk/q9uVfBiZk/b+EeJdD1sxF+TmEky9CpD7s1hhnvBOc
+D90nN+3dnIGHTkCBpAOzGZU404qv94YD3syPKREcKiUNudLE354=
+=aZX+
+-----END PGP SIGNATURE-----

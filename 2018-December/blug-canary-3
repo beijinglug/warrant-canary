@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for December 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of January 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Gatwick airport drone chaos: Man and woman arrested as passengers brace for more delays - latest live news updates
+ Pictures of the Day: 22 December 2018
+ US government begins shutdown over border wall funding row
+ Armed police should be stationed at all Parliament gates, says coroner
+ NHS to carry out spinal surgery for unborn babies
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Americas Allies Fear That Traditional Ties No Longer Matter Under Trump
+ Glee in Russia Over Trumps Foreign Policy Largess
+ News Analysis: In Afghanistan, Alarm and a Sense of Betrayal Over U.S. Drawdown
+ Man and Woman Arrested Over Drone Flights at Gatwick, as Questions Remain
+ Mexicos New President Promised a Revolution. Has It Begun?
+
+$ date -R -u
+Sat, 22 Dec 2018 09:15:31 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlweAM0ACgkQr5D/NPDH
+QYSuHhAAlneYespQBh+6f/1Lf2JLlfqsMOIEO3WU/T0LkZaOYEh9qrXAz8RVkTYo
+1Ma+Cjdj/WiY/jxcE84v6JFYhoVdvyCp/rwfqFJjRRg67MmoE8B1J7OVC2OaLIII
+kOwF1bnGjBCQ6vetVD6Dmd7z0kh0i7mhxFDHTE4tpI+anFzI3METli3K1mqXQcLG
+j5ctwhfJq7E3mp+l+bsa8JBHjgCenNLi/pRy35Y4JM2tXuRXmTFNEJFYyXfMIZAk
+FHb1xnjvCf0nlYc4xsIcrQHDA0rUE95DSuNvfIlfuZRPTER8Ll2cATQPw3HYHm8K
+/HB/NLBgOHuJSfZYDEBOJVFaVGqPAHHBC+YRaLNTp/nQ1SwLX3/UffkHG3ykxJq2
+M9cJl6oiW8/NDxtSvNQQAJw5D1CHFxZPljpQFiquo+GuVthrnOkDx8kr2DRT9B5J
+XnZa0O8PMOatyBuNT6XwwOtwD97+E6xuuEa5cXGhA8IuFmBdyWagMjPvnVSUjugb
+H5+72U8N6xHAKY9mSCoGl+afLXFu0eEwBCG6D+2M8BNDFBn0fk3rpDSr0SpKEdvk
+gHx9L8oYtDWZPBwIlfJzhaZFdGxMGzzEIVWVdO4ljjVag2vEH3/AxRQ/jQkuTZmO
+qIV8GzMdT4DyKIEZjwrpcyEQ06Q49prR48MNXl4l6W4ibE4lDOU=
+=AbTq
+-----END PGP SIGNATURE-----

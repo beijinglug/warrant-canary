@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for December 2018.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of January 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Pope attacks 'insatiable greed' of consumerism in Christmas eve message
+ Christmas carols by candlelight gigapixel
+ Mount Etna erupts sending ash into the sky and causing airport closure
+ British-Iranian academicAbbas Edalat, who spent eight months in jail in Iran, returns to UK
+ Gatwick drone investigation: Couple wrongly arrested feel 'completely violated', as ministers accuse Sussex Police of 'messing up'
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ It Doesnt Matter if Ecuador Can Afford This Dam. China Still Gets Paid.
+ In Nicaragua, Ortega Was on the Ropes. Now, He Has Protesters on the Run.
+ As Volcano Rumbles, Tsunami-Battered Indonesia Issues Beach Warning
+ Lebanon Dispatch: Christmas in Lebanon: Jesus Isnt Only for the Christians
+ Mexico Helicopter Crash Kills Governor and Her Husband, an Ex-Governor
+
+$ date -R -u
+Tue, 25 Dec 2018 10:56:59 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlwiDS0ACgkQQmooAO3W
+sm2zDhAAl8WySdnZfH+1iczoUCeyP2v9yShp7X1VCpwhCKhs4gmFcmRWrjuGHlHY
+ptjwohP4Ut854tY3AhNoGSfCFnRUNVpFxNEHG8SHfIUkOz09S76CTN8y9j0Z8U+G
+xCu3WxKlkB8aqsXkjxIDMiNNB80QVOW3dRJIvToDlVzDItbquFRpBrNCIApuQMxX
+9wGgyirrPnO20V5GfLP4CXvCYzEynBklQn/enNB2LleXHBbp9332h3Ev2ih1TNMG
+nYefQpjjVWnWMxweFtVkV3Us0Yj3teBce4Mj10QeQrPrSMvEnC6sw4JjolJidXfF
+e4MxMwzftArbqH3RivL9ahKfMQmoyorM355MNpzyIMIJNut+u2aRjxqGa7wUMfTy
+cNRXzUc4/er69lXZ/6EIYt2pO2jDGuVAUKvM9vmlps/pGp5CW/Nszp0N44EwUGsh
+d1dJFNUsYsvfoSZgT1nM35IRcBuqMGWbMsWkVykI/c6Go3tmB1grn+3koRenXZzw
+NEKUaZDQ4kMcNCiC8Q2bYOGGvLDjjxx+qH++YzfdblOKBracQV3ZKOxXpNEbM6L8
+kc3c4ztKKoNnBzbSgTaFt1jm1OShXID46CYxdT81MlRe12/tB/DyqXzmxsCmTE+B
+gzlcX5kaSB0QELdEFbHCLr5NwNUA9GSPr3K2j2PqsyQdSbOB2XY=
+=Tz2e
+-----END PGP SIGNATURE-----
