@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for February 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of March 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Isil bride Shamima Begum has a legal right to return to the UK, head of MI6 says
+ Photo Dispatch: Syria's fight against Isil
+ Exeter pensioners: suspect arrested on suspicion of murders is polo-playing former public schoolboy
+ China bans tourists from Mount Everest base camp in clean-up drive
+ Climate change strike: Traffic outside Parliament at standstill as students take day off school to protest
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Kabul Dispatch: A Shotgun Under Her Bed, This Afghan Maverick Wants No Peace With Taliban
+ Snap Election in Spain Is Set for April
+ Four Men Convicted in Killing of Top Aide to Myanmars Leader
+ China and U.S. to Continue Trade Talks Next Week
+ Theresa May Suffers a New Brexit Defeat in Parliament Vote
+
+$ date -R -u
+Fri, 15 Feb 2019 14:54:48 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlxm0ugACgkQQmooAO3W
+sm0goA//Q/ssoMzlOr7B5v8Z4fKSGS3OMTqrY9vxx8DeQvuKdZQxEiFWTZzfXzWu
+OVBjCMC8teaBM78aATE8fBQT7ulgGH1bWlTtzLhSkK7WMxwQJFf31rtJS6Fa7VVL
+cjJOc/oiwEZ0rzU/zepnS49LJtPdT8828DwWkEKMS5EwwFDGugXtaIiy9MF7GNIq
+Ux+UWaByy6DCY4mHnRYEGjasuqfxZJBLhuur2/LYyi/8qRWBGt1p4F3hS2lNpW1t
+gt8/Vw5/6Xz3H/X78wShUY3le5tNKi1mKF5Usq8s1zL1sMCaE1OG1DRu2ojSl7tm
+C3+egq8/uQqdmPppUMergG5fAa5tjKcYO7yGevzP5z93QGH0w6+1/Ma+XGPKdyBa
+xKWdT68kzUiQijSthBzg1bp96Edws1CP3uzMMl97qg4LncWc5AMuD4hFOs3su9q4
+ed5ZBl+aO3ntWiU4ERkPZ4uYlq/534kRakW7KBiBLobGu9HK98/qeHZQaWYCfvux
+t/046ldr2cUx5oNRFo49wESbUV0hjgP9nLMgI72s5pfwYsnvqOtGDXisKcOqFHIa
+SYZwISub4yAKwSDwleoAo/wPl8FLHlJjTeqzujMGg8dd/qE/C6eaU/BpFuZtjG9o
+N+ql71cDKN1VTXUizQ1UtWcL0A2U2MJgzRHLdUHNYDpchmZhWio=
+=Iqja
+-----END PGP SIGNATURE-----

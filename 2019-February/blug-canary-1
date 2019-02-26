@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for February 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of March 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Journalists detained for hours after showing Nicolas Maduro images of poverty in Venezuela
+ Venezuela deports US-based anchor Jorge Ramos after infuriating Nicolas Maduro during interview
+ Dame Emma Thompson letter reveals she quit film in protest at 'second chance' for John Lasseter
+ Oscars 2019 after-party highlights, in pictures
+ Cardinal George Pell could face 50 year prison sentence after conviction for sexually abusing two choirboys
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Cozy Up to U.S., Vietnam Tells North Korea. Look What It Did for Us.
+ After Indias Strike on Pakistan, Both Sides Leave Room for De-escalation
+ Germany Dispatch: Where Kale Is King (at Least, When Its Stewed in Schmaltz and Bacon)
+ George Pell Sex Abuse Conviction Unsealed in Australia
+ 2019 Is a Sensitive Year for China. Xi Is Nervous.
+
+$ date -R -u
+Tue, 26 Feb 2019 18:24:25 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlx1hHYACgkQ+tPrBeiO
+jW0w+hAApQz8DwkhwvEsu6UOffkpBZxJ2hCWNDA4iGHdnwuF/8TK9B5D0NkDZFg5
+ui76SxsAhcIquSLLrzorWWOpOcwEI43zE1JGUwgmOkyn/YzDbsMQ5/e3n4VCu/Rr
+g/mFYZ+zoy5iLTRMocrz5QsismYcBwXxryFvd/VeG992iIVX5URF7+R8BcKVVgRV
+1jvuqJ4sGRpzDk4tWsIl/b4iBnH5dwbfIdTtkIOPn9oHnp/FFiH/xcXYZmSFwGXR
+hOo134voHRuOdg0oFi6Ui4ilWwgKqYqhZiRYOuRSZ1Uh4x32ApuhheMcUTcjPesS
+QmJ3/exmNc/5/ltNk6Yf+iTqSdY4FHt+map6TsBBu3yyhOSGOFxB0eMZmotXaaat
+u1oJG+8kicLgc5IGLlLRfcSnkeh3VBaW+AZp3v5uZ95J4s0QZd5QRSUVcRjLI542
+nXCKJ/DnLZRqhuX1mPYDAzn9n7thE8OIuJfWYOuTmx0bvid9s5zex13iIL2KEMyu
+yfxsgOdOg9CAO13HieKSuLVkovqctBzY5nZX/3SLWttpifO+pKSYwy1VRZxgf7rK
+rYsb8/eoN2KSRo6S39R8HRnyCMHp02p6vObPcdzUGcPkCLLoj6AWiXZn6NbGnUs4
+mAVxlMEYe/m7P/2yaiTZ5/Np1O6n9dOk+B0UuD4Q36OkwD9k+bI=
+=C2IB
+-----END PGP SIGNATURE-----

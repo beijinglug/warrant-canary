@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for February 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of March 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ MSF suspends work in eastern DRC after staff abducted by gunmen
+ Italy's ruling coalition faces split over potential Matteo Salvini kidnap trial
+ Shamima Begum is 'traumatised', says her lawyer as he likens Isil bride to a First World War soldier
+ Smart meter roll out set for severe delays as energy firms told to slow down installations
+ Why your roast dinner could be killing you: Indoor pollution from cooking as bad as in city centres, say scientists
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ The English Voice of ISIS Comes Out of the Shadows
+ Rift Between Trump and Europe Is Now Open and Angry
+ Shinzo Abe Wont Say if He Nominated Trump for a Nobel Prize
+ Poland and Israel Try to Improve Ties, but History Intrudes
+ Kashmir Militants Strike Again, Killing at Least 4 Indian Soldiers in Pulwama
+
+$ date -R -u
+Mon, 18 Feb 2019 12:14:24 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlxqoagACgkQr5D/NPDH
+QYSNhg/7BU77nJE5beAzuM8dzzzE/pmco2S9yxMWfY0aLNgXYE+/soq1rZz/jIQq
+syW5HCDo2xytS504lr6k+Abr0DmsHdZwaBmEd4PWmKniAyWGcbLKa0ANImz9h8eh
+cwgvdv9bWDTsqvkBPnBYE5j9zTExy6JWrhpDPLaxnSZ201d9Y0XweCiz5kRVj/So
+RwsH37RLeDcVNPar7cV9ed7mX7uZaLLudK8ZMW0az2aVmsjL4t6Odc/e3FUvquGv
+W2OVytQPclbNF9mIlsYRbjdlThQhqQtsaIkcbmS671DtDGxB8fxONiXu0leyJpur
+6pOlpZlhVgYWkUdJzgI2XPmfTo8AxIqTanICC7qA9f+Rr+QIdFZjLFHB/mx8ldXK
+F9T4PJdI4jOuji1pU039gUgl6MOe+RyQbLgSDDGCprbA3/answ+ig1dcGGbwVctC
+TfM4tVB8nSluRwhdmbAe7BOIG/Y6D0YfXomNnBuM9kq2HxMrw6oowVi2QUk/lcdY
+LZPAn/LUN3L5SUur2JN08H1JQng5bOGfbK3LLUTDDOiipXDDhpo8imUnx8UADCJS
+17YURyLjpMZ0gJBCWq4wKsYulBEiqELx/f0G2kxYUgZ8pZmRAJNmvTYpWKiufxBt
+xVkTvx+27soSZoQYJ1vm/LoHAPyM09lomAemdHhDsd/hExwkmao=
+=SwDG
+-----END PGP SIGNATURE-----
