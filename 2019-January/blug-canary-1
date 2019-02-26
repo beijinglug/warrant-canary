@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for January 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of February 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ RobertMueller's office denies report Trump ordered Cohen to lie
+ Police pick up two penguins stolen from a zoo
+ Social media allowing women to cheat botox screening questionnaires, warns NHS
+ It's not too late to have flu jab, pleads country's top doctor
+ R. Kelly dropped by record label amid 'sex cult' accusations
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Trump and Kim Jong-un to Hold Second Summit Meeting Next Month
+ 4,141 Latvians Were Just Outed as K.G.B. Informants
+ Pipeline Erupts in Fiery Explosion in Mexico, Killing 20
+ After a Crash, Prince Philip, 97, Stokes Debate on Older Drivers
+ Afghan Presidential Race Takes Shape as Ghanis Challengers Emerge
+
+$ date -R -u
+Sat, 19 Jan 2019 04:19:42 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlxCpY4ACgkQ+tPrBeiO
+jW3pvA//RZdJRfCUN7ILcwUMqLmpI+DHxHU9yQZtfGmuiqD02x03DMqKzd2+JEBp
+iTdPJpekinXHigaMvdTXDKiAfkXGPgCUUeWXod5u/E3f3GB31FZ46uq7swDHyt3R
+KiCu71pxOe6JzB1QUrN4SzjGH9xL0Cj4pBV11X9G+/okWrdZmC5/X9gZ0SE+3feI
+AsPlP57XZoXDWJlL40LuFeiFg5pu3MwEJgkvLskPF9MmxeOIanPAT04U5soXi+uv
+K6VXUs7gnAOMKiq+048S4qUnuQv3TX9JuWu/148aR60KA46TX3HoqtJu3LDhGWgX
+OVb9k4M70vmLKRfBQ1X3OsF5K//hFwk6W0C08cpbt+IWuKxjaFPRymeuq+H3ZCcf
+prN4rl2dwpmMz+7xK4i/MAFtUZbK+s5EelovChvGM9ifPLe7hYChA55pUQ5tD3pB
+YDLFMZGK8lslG6oEKNCtP90SZMLNNz91CDMlq7wVgkaZU/3FXLzB7b0CoH9aE3TX
+/RWwililsgXZUoegRC1kQ1BQObHVAwrsUP5iGIsleCRVK14i9FpYBVcn1X9jFCSE
+bycpPus9i6+vPpcimpmW3vwhJ+RjwqmkHcjTbEujBIWxzDBtim5tQXWqMfFyApN5
+0u10e+9z1zcSrQM3lzk/bz0GtR5vVc7BAyJY6PFN/MoWeCZhuO4=
+=EcJX
+-----END PGP SIGNATURE-----

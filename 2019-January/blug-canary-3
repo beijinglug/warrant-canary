@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for January 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of February 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Sergei Polunin dropped by Paris Opera Ballet after homophobic rant
+ ICC acquits former Ivory Coast strongman Laurent Gbagbo in shock ruling
+ China accuses Justin Trudeau of 'irresponsible remarks' as Canada imposes travel warning in dispute over death sentence
+ Zimbabwe police fire tear gas at protesters in second day of unrest after fuel hike
+ Stowaway bird causes chaos in business class during 14-hour flight to London
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Live Briefing: Brexit Vote: Parliament to Decide on E.U. Withdrawal Plan
+ Saudi Woman Who Fled Home Embraces All Things Canadian. (O.K., Maybe Not Winter.)
+ Pompeos Anti-Iran Tour Faces Obstacles of a Fractious Middle East
+ A No-Deal Brexit? Leaders Are Alarmed; Voters, Not So Much
+ Huang Qi, Online Dissident and Rights Advocate in China, Faces Trial
+
+$ date -R -u
+Tue, 15 Jan 2019 11:29:31 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlw9xD8ACgkQr5D/NPDH
+QYROlxAAkX4GuM/p06wwsEPplpe6V1XfbOzf3oAw+UdAAEfDGa8xfKJabD7CPnU4
+G3kaafUdiKMCiHcM7y7UcDLXB0fLNpxJ9IQXnR57NBDHK2DacgveXwPTqjH9LeRL
+xw37K/THgaW9xc53joJboc2bnZrHYbFJIyj+BJi3OwUPhMVlGVj7qMs+CZeurvR3
+9dshcGOavTg2mTZQnae1LjvHdTZMfauQp1+GQDuuokeLQ1YPwJvw3mtRHiw1GtjX
+815p6IVMmo4+R/KCjXAmLQIAVp8Y7v1yPGtVjLI2b9lQVf7+CeEkwUlWlUsqBp20
+QhaZxTaHbgGBghFV+EPdYYcCEk1wgnL5u6XEzc8w4mHKq65HUxkTFBHCfS9ydfGZ
+ktZFCpFYV93JhSaonzDrfwEbrV14DiZVjtnH0jlYrVdoMdbP1UbsqhTjart//16G
+vQdbSFSeZjUsiTwlxImZcKWLZSGK9opkYEdVLjZ/csnMktIHfMqMgv9lkW0Bd4vf
+6auTsTW9pYPwMSLhnjO7ezeSSnqj0991d5EE9TBSZqFt9Hbl3OmDqrBxhS//q1aa
+XHhqNzqckoVdawv0K90YGyutYFaGJ6EVU3SC2WHE6cA3FwCBFeIzmzPaEq1l76Xf
+Sh6ZMcLUEGDBH/+Clp7MI5/NJtB0R7JMLzxp9CElgjGx9z2ebj4=
+=FTDv
+-----END PGP SIGNATURE-----

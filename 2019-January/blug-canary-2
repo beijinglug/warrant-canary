@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for January 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of February 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ UK and US conduct first joint drills in South China Sea
+ Asthma attacks three times more common than thought, amid warnings over air pollution
+ Donald Trump cancels Cabinet members' trip to Davos due to shutdown
+ Health and military personnel must work together in conflict and disasters
+ 'Privileged' Edinburgh University student sobs as he is jailed for sexual assault on teenager
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ A Favorite Restaurant in Syria Led ISIS to Americans
+ Amid Brexit Chaos, E.U. Sees a Catastrophic Success
+ British Parliaments Bid to Break Its Brexit Deadlock Is Delayed. Again.
+ Putin Gets Red Carpet Treatment in Serbia, a Fulcrum Once More
+ Trump Vows to Reinvent Missile Defenses, but Offers Incremental Plans
+
+$ date -R -u
+Fri, 18 Jan 2019 03:18:41 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlxBRccACgkQQmooAO3W
+sm3nVxAAl6hYsanY01pU3Ywas9+jGOsAfJqUEJ7y3lAmOWaBttYoEYy3kRLIlmkF
+EW/gjVtI5BBsfq9mH0b+c3/775jzz/e0KwAQGpEb4asnSfCaGWvBgoz1VlfRjdxD
+xhWzXlHke6y6jrFGDIWE2ZM2gq7bYWvBuKDDYXLQ64HYE6paGaEL3CFTWroaWuaI
+OdYOEppQJLLXAIrYOCXO+KWOH+mioPpvYZjFNP+TO83r4h15M7nOedab3/ldpf4x
+YbwNXY6IF4KbltmeLpKdS9ZwG2O4HPibK3JFU2PSZWaVRyZ7Tr8g5I+EiLOO7iSn
+ZXXWmNFC/PbWJap0w9juUslwK+2fWigv+pUUFw+UjPG07EZJRsZyNFTC9Y4AuzRt
+l/+KZOhgt4u4OUfeVjkuIPAuNYTE2x/HDS0/1AijghT+nr1J6hAd9igZGZcAxiXz
+PcO0IpHNDGnLGgGtMowmMoGzpUhYTy61DuH28b6WePDY0jErl78R7BvfUR02sizK
+SFs39eremxeokkdOIW1O+lSKzc/QckRh2kIRGSYAfN6SCROkAXSZmtZQ5Ewxk39W
+wQqvbu71CkSYEwMF1Pu27H9cRUUosqkRZLA/2AWTEOHXMd7NqQPKxLMcVal/eqo0
+oNmL9gP+oTkkC6Yjg3oE5cAPx3oBQyYlaJ3UqAJagm4RzQLzn6Q=
+=QhXq
+-----END PGP SIGNATURE-----
