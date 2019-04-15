@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for March 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of April 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Israel launches Gaza strikes after rockets fired at Tel Aviv
+ Maternal deaths from C-sections 50 times higher in Africa than UK
+ Lord Steel suspended following admission about Cyril Smith
+ Matt Hancock mocked after saying that some nurses still stand up when a doctor enters a room, as NHS worker quips 'it isn't Downton Abbey'
+ President of European Parliament apologises for praising Benito Mussolini's fascist regime
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Boeing 737 Max Hit Trouble Right Away, Pilots Tense Radio Messages Show
+ Britains Parliament Votes to Delay Brexit, but Not to Control It
+ Japan Dispatch: Japans Enchanting Ice Monsters, Claimed by Climate Change
+ Rockets Fired on Tel Aviv From Gaza, and Israel Strikes Back
+ A Taliban Leader, Eyeing U.S. Peace Deal, Speaks to Afghans Fears
+
+$ date -R -u
+Fri, 15 Mar 2019 01:58:52 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlyLB04ACgkQQmooAO3W
+sm3y+Q/8DiyWocotoy4oB68uVpQ1KMxqujf3u105sPCC+RqRJEb1XvEwD5nlqF3s
+zExIqNCSPt38MHh7sVjT5DQyh/YpGB64H28Fc4lLv9+pc+W7ipU399DAOce+243D
+ZMeQGgLHKoZ6cqX1ngSQ+4bdW2v4vJLr5g8RocVk1BJd8qHFsyMFHNlda1GAZ2Gg
+bv9FTiNgLdZouXZR790bE/K23VANR7+OQrnhz58GQEchETuCYxrFgu0tkXgwNgG3
+Zu49d4BXwXCXdEgd0GDoQLK1cjkLKwDAxDE5UYtpzwtdrq6s8EZ8PaXiFOs22OC7
+jKAUnxhKV1qHz5peLjdit0Ztze/rFcOj+yrxy9/TUuwRom7KUAvsdxPOmdmFA/7w
+e8GltO74VrKLZsz33C9//9Liix6Ka0EWSz0XbTXhQobFIh3XpMxk+pZ430tXNOJp
+LDaOTDqLn9p8XtHTjuccZOwpDP2W3gKi524cPIw9CxbxzeouKDWGwRtUx8iuIkBV
+LLUkynsl1PfTX2gCxhlIzNNzSiVcoC9eMPbQehXJ5DpOQBjOLVhq9cWfe995/NMY
+91H0/EZe13+ghKt/uxnAbz3uTPVoyXPXEpRLyxbjLaeaEV74OMWwzzmBu0j9PbMN
+TLeaxeAj9vFoShezzu/bmZQJSe3Cl1CnkMlvyfTSv5Tckm6X6e8=
+=jt3a
+-----END PGP SIGNATURE-----

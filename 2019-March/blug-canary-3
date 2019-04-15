@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for March 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of April 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Kew murder: Man, 32, charged in connection with film producer's death
+ Russian sailors rescued from deserted island off coast of Wales after taking wrong turn on drunken dinghy ride from Barry
+ Teenager finally admits raping and murdering Alesha MacPhail before being jailed for at least 27 years
+ Clash manager loses bid to sell half of royalties company set up following her bitter divorce from band's bassist
+ Church attacks Home Office for saying Christianity "not peaceful" to reject asylum seeker
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ The Kingdom and the Kushners: Jared Went to Riyadh. So Did His Brother.
+ New Zealand to Ban Military-Style Semiautomatic Guns, Jacinda Ardern Says
+ New Zealand Police Listed Wrong Person as Killed in Mosque Shooting
+ Doomed Boeing Jets Lacked 2 Safety Features That Company Sold Only as Extras
+ Confusion, Then Prayer, in Cockpit of Doomed Lion Air Jet
+
+$ date -R -u
+Thu, 21 Mar 2019 13:45:17 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlyTlXcACgkQr5D/NPDH
+QYTctg/8CBh3HvWepk4H5jDb+BvWaks+Cey7kyKtnAB5aC1JMxIajcgXe8hOzikC
+VXK0ovtK/WwFTexUA/ELX23c9ithDeD6N2dMECAHcEV82ApSoKwy4hRaEcI+2UDh
+gA4g19n2mjyvVpZC98qA7jWY1GuSwcWY3aXihQPBI27wYZe7rMAR4th/G6vn6AE+
+mwquBxEX8u6vumjHW+537zfeNgWLPxYjfSMxsFvwLrVtQvddnM6mV+9IUG4SUBmv
+wLLHRehYWBqDBT2TXEnXSr1jCodSm6eDKZdaO1QUon7UG64pOeR9b1fW9cRijVPi
+SHYBNMSOT3X7gj4cXVoUnP/C3xOAlXyCmxYJ+MX1+3XCI5Le8h2rUo9ZjlmLL4Bc
+2ucT2AY3euFHy8shMAFKf9p7aa6MqF8KbKD7AZo9YPRoXsVSkrQNro12wj613btf
+ihpY9k9Lr6BQFJBIXpyTFPcLXo70CwGcFwCiRYPWgnsjQeypYBggX7BMheAoFm/2
+Exz01kSzhv6x8AzcrMEAJOHXEcweCW3L6kNcxFWy3JK3aEVSr+ZpwnwvB4WABKSd
+UBLJQt7dIcuxu71xVMSXhcoHvXEtmKunTrhOclgqbOAVLgiw+xJv1Dc96KeuJEkw
+CLb9TRzFNZEwUa7dHm3Cvw7gZv6f5irnqZTECnam+aknVRB6Jbc=
+=nR/Y
+-----END PGP SIGNATURE-----
