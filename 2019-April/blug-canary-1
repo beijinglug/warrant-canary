@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for April 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of May 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Pictures of the Day: 19 April 2019
+ Dog owners are no longer allowing pets to die as figures show rise in 'Super Vet' procedures, ABI figures show
+ Londonderry riots: Woman killed in 'terrorist incident' as shots fired in Northern Ireland
+ US couple could face death penalty after Bangkok claims 'seastead' lies within Thai waters
+ Dingo attack: Father saves toddler after sleeping boy dragged from campervan in Australia
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Dueling Popes? Maybe. Dueling Views in a Divided Church? Definitely.
+ North Koreas State-Run Economy Falters Under Sanctions, Testing Elite Loyalty
+ Battle for .amazon Domain Pits Retailer Against South American Nations
+ France Debates How to Rebuild Notre-Dame, Weighing History and Modernity
+ U.S. Scholar Who Advises Trump Says China Blocked His Visa Application
+
+$ date -R -u
+Fri, 19 Apr 2019 21:57:42 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAly6RGAACgkQ+tPrBeiO
+jW01MxAAkyAEr2Ah28lKluGC5JPkC0KgpFaXq3mosA16IqImOAci0ZZ0UvcRVsfO
+HDcVemKQxS6bvSKl5+hblJu+Mueiq1NaK0M7brfpni5gsojWFEXIneZVrVnnPAII
+NBq9zwOwiUQY1kSO/qR5ENB4hwpc+DdUHUTwkXgKiBimFKMzFcjZsIT+kk5FcT2p
+7KkJOWvATE4Sm5eqGODHc0TInwaS04tA7u0oNp2d0RCEctZcMTOQF2p2Tl/wuzGc
+P9Cnyu2DqPM40C2RysDx+x8m2yWI80TUucBu8et89aEiT4X3W8KzP056edzf7wWp
+u7/ukOWaEXBQf4Jr1a4g/c2q/BCZEaT76ncUOSYX46h+subBq5QsMTNh9TiPcCId
+/uAKIJ+AqWza4aqOhUpD5Iz37xH4KvrrIIf33ynJa+rNHNMr+1AbvqSpaSo7Yej0
+sX0uFB8Nl9edPvX92dDsXnVz8Fn/o7ghowUXtMif08vgTmbKzTbJHLhuTMQ5PEib
+Aqe4Zp4PV71Cag79BI7KR2g6FmgT3evm7ViWheRO1FOlDiYmNa4WcnABArgzIF7C
+3xBPseBKlxLk1SqMVZyM2YlfmYFJ9v9Ju5wAjKo63PEhZl/Ti4ycaU7ghquUBXsX
+gVOtr3a29yZpStS2Fh6kTlLLjfTB0cCPXtVTVl9URrUqZvfXtjk=
+=9wre
+-----END PGP SIGNATURE-----

@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for April 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of May 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Climate activists stage protest on DLR train roof as police shut down WiFi to thwart Extinction Rebellion
+ Notre-Dame cathedral fire aftermath, in pictures
+ Asian leaders focus on malaria as region leads the world in fight against the disease
+ Watch: How the Notre-Dame Cathedral fire unfolded in Paris
+ Saudi sisters plead for help from Georgia after running away from parents
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Notre-Dame Attic Was Known as the Forest. And It Burned Like One.
+ Indonesias President, Joko Widodo, Takes Lead in Early Voting Returns
+ The Human Wedge in a Fracturing Conservative Party
+ Trudeau Faces a New Foe as Conservatives Retake Power in Alberta
+ 150 People Missing After Boat Sinks in Congo, President Says
+
+$ date -R -u
+Wed, 17 Apr 2019 12:40:44 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAly3HvsACgkQr5D/NPDH
+QYQjtxAAqAosQF2cKknt+lO2jtZJSS2k5ZARn/LO/3ioe8iFZD5avEaab3EOFvR/
+HIwHzr7KI/LilAE/7CKb2QbjNpchEbZC9LhDWg5vWMsRtd86Qyq5O8TU/uUDhyJW
+WXXyKB+odjLuIlNXyvMe9nzFbLbs9nYsD6zpd9h9fEB2/t96z3aJCNTZBT2iDitw
+ah1qyZ+/kH2XORTmh1ngmdjy7ntMIHplPgIWg6tFUQepJwiOuz2Ywo/MxH1rz04L
+QIElkbL7crB3ddUn0rfTIcM6YAfRhM09RFueqyy0mYtQWtfSich0Qmtjk/reRA+H
+WQrAlgU11Tp4pxS4mDd8XLvbciE+LbLlOG+kTecG6c5Lafmg+9hW4EOdXUjdieQW
+N0jyvfIR7bXlAQoMG1n1VRKyXDHvjRHV/A6nTbQJXBWOOJnOOOGsL9UPQdRQhTmP
+stH6j0xLG/VpbQcWVGdCtcD3vPqzxPNmAeTB0OunqpNY8tG9hWConTln6SFtaU/L
+18wtz7ZDetQucar33HpJQdXhqyiJ63/CU0smyvwBQJ8iEmrd3anao75ptION6jhi
+I0LgAPQeKWl/fUMl1/QbMTt9jNIT391kg2ldtDBsRqjFqJVzLzEvrLtU2xyLEDXc
+LpHFJS3RT6x3/KaGsWSzfs7y25+fUlNRmkr7GMwCO31oSXUtGN0=
+=tUGk
+-----END PGP SIGNATURE-----
