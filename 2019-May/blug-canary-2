@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for May 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of June 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Isil branches out into Pakistan as it bids to rebuild collapsed caliphate
+ Three Britons among four killed in plane crash near Dubai airport
+ Pictures of the Day: 17 May 2019
+ I.M. Pei, the architect behind the Louvre pyramid, dies aged 102
+ Navy captain of HMS Queen Elizabeth 'sacked for misusing official car'
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ How Xis Last-Minute Switch on U.S.-China Trade Deal Upended It
+ Indonesia Says It Foiled Plot to Detonate Bombs via Wi-Fi
+ Israel Presses the Case Against Iran, but Not for War
+ Taiwan Legislature Considers Asias First Same-Sex Marriage Law
+ Trump Tells Pentagon Chief He Does Not Want War With Iran
+
+$ date -R -u
+Fri, 17 May 2019 06:15:36 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAlzeUoIACgkQQmooAO3W
+sm2qPxAAtuIHmHmoxU5xnRjoITwVkotRsxWHlwQqEr4ph40VFqnR8DnP96CngCWi
+H5XN+mZ0dIUWLqQt6kmgML09lPNdiPZmz8w22imna7R95VKoNQZyyBQHA+g3pLSU
+pLy0gXhQurOLHWIFc45DATdkd4XtthJ4PqpB4ZQcOomy7mIEv9VD4UDMxcIxv/sI
+k/YTN0YYrj8milFg8xBOm/Q1LSkeU2RLXttOfLCNh8AwNxrOsZsDtoX9yUZ7SQyN
+NkuAhBZkcphPNWrpF6uhp7WvPOjK5R9dt1n1bS5kcScg/wGPKblZnWYmtCrF9zuC
+HyFTdu2VnuF4bKeYRVtfLTKR5/EPeQsv/bVAwKPhgRH3ssvLyjOa060HAMOysWoK
+9GHMUXXclI/SpTUB2mfnVXeSZ2B1sHfyLMAawffSAaalrNZ4bVofyyQiXR1p0Swd
+G2Xp2gpRP9ERNbwyHiHpi2AAXz1c55y5i2MnWDpiz0mu1bXy7LvQd6EYgXm/inLz
+P3UjB9YwZWWh55KZTAiPWCYpyeeL6JuRoM4YqkUL7CBsNfB1MQtFpS1qNQNRqTyJ
+4mHM87YIfQ9zN1vcwVwXYJ835/VaIDIyz1U+RYk77bPRNfN6vAJkgrledDJgSefW
+IBAp5pYzNBuaikITPFtMbaz1HeLGjuQA5PEa+HlmTNnSmMma0YY=
+=fIcZ
+-----END PGP SIGNATURE-----

@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for May 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of June 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ US 'afraid' of war with Iran, claims head of Revolutionary Guard
+ UK scrambles to boost aid as Congo's Ebola crisis 'spirals dangerously out of control'
+ BBC Springwatch to enlist viewers for major data-gathering survey on Britain's gardens
+ Nearly half of young job applicants with disfigurement felt rejected because of appearance, study reveals
+ Cocaine dealer enjoys luxury spa break half way through his nine-year prison sentence
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Fighting Ebola When Mourners Fight the Responders
+ European Elections Will Gauge the Power of Populism
+ Indias Narendra Modi Appears Headed for Re-election, Exit Polls Show
+ News Analysis: It Was Supposed to Be Australias Climate Change Election. What Happened?
+ Austrian President Calls for Elections in September
+
+$ date -R -u
+Mon, 20 May 2019 01:17:58 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAlziAFIACgkQr5D/NPDH
+QYTGxRAAoyXJ7BnEAUdMofSREuSlZKVOVcs4bk9y9UKzDVPkr5+FGcyLVsDDT44V
+o0pVRPEgLT8HRmSyOLFWaQ7LVfBhrCAJn/DWu2sn0Y8MZw5XHkl3ZkH5Wg/0uam8
+jXDenZsxLM4qJzwCrRrC4V/DRyKWSxd/vJNE+PpifMAskn6+Z25FZiNEAY4EiDBl
+HLqukqb8hElvhqCgqdskiVnin1eaYljbclofEDK9vvS3sbvDZzTcpdBFMXhIfeW+
+8h9irtZEnIyHozVOL5qvnBw9BylIzMB80Xud5HVEBbLbTcf9FZtIi2N4xigNZD4V
+al6Vg+DrH2KKvrF9gGDicsyEKm9WnvXTc6qhR9dy1dgEjOpff/WWZx689LHYcw19
+TGL3v0H6PZUvwbZCKzTeo+DV9VbGr74ZbHJNrdIrU23nCsyllRRz1q8Ku3t3eOln
+49YHEimddDFAFwjohX3s46ci3S66vpuA+vZjkc1TdzGwDu0rCBj4uqqDlM1kHgso
+2GYQcbkNTb6DuUmP+9xjOyTQqBGflPfVgv3LA+dlG90g7wEv8fYLP+b7fGwB1CJP
+zhTtys1bHWeA9qyKDc4LZXg1CWvuR09pSSB5WnLRkVm9otVuyX21VX7V6lt1Or1s
+4g7TCw8Gbvp1jQ0upI71uKteYtnXRbNk7dwYQI1dNnMxi8Vnve4=
+=iVE9
+-----END PGP SIGNATURE-----

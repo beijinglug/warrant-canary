@@ -1,0 +1,99 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for May 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of June 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Smart meter target 'impossible' to meet as installations slow down
+ Speeding driver admits causing the death of his cousin's daughter while her father was in his car
+ Prince Harry charms children before Cricket World Cup opening match
+ First sand martin chicks born after council forced to remove nets from cliffs
+ Scottish beavers causing problems on farmland sent to Yorkshire and Devon
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Photos of the Tiananmen Square Protests Through the Lens of a Student Witness
+ North Korea Executed and Purged Top Nuclear Negotiators, South Korean Report Says
+ Dutch Man, Captive for 7 Years, Dies as Philippines Troops Try to Free Him
+ Pope Francis, in Romania, Warns of Populisms Dangers
+ New Documents Show Power Games Behind Chinas Tiananmen Crackdown
+
+$ date -R -u
+Fri, 31 May 2019 13:51:16 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAlzxMYUACgkQ+tPrBeiO
+jW39cw//cQzm//qL/orNnLUJGdlxgk9q/2+u5VALnr/GjR6S31UEtGdW9fKonSi6
+gD/InmXZrjhznhQKgDfvUHzH4h3+Mr3aCNp1+weiw89m2G8JfqoIGIXvHA5/LKFy
+/C2kGxUxjUvQkJIHCRDcLomXNOJmSaBNfVjK390zaTbqQuboeVbsb3uUXPdQq84Q
+R36vJdaktt7eQk/bQdWCHSNDWA3qgTvmn0Qc8LId3smlVMwUn5qxQaEgeFj92JTa
+DSnRAyC/DBgq0RYINuiZsGxyM3IHp4wWEY3cm0FmqvPTEwrkb2q41KTFkDV9ubO9
+RzDT7VblzmVu8RM+WMqwbaQFJwIkUk8REI3nKjBjxCwoJ9PFLE4jYSNHJmJ6uj2/
+DhXGgq5nt1wWXs77WCw+8a80NMF2LfqiL/Q1k9FEecmNTT0hG9ypVvMn/eobmNEN
+M3BCEYGiG4E+1xCJ1vGSWflW7yCepC5YOvtufgsenx761u51BynD+pYWH5SRJYzl
+cTL9rq14ccEZH8RMWHtKz+XP17NtB289npbIzS1HeCwiuY7gF7QEn8OCbIprFVn0
+FiI+dDGJ5UagbtwvV+7eJuyo/Ur3AYw+PrtSKZIORAjJNvrWldJvoNfasNpuagBD
+PpiN3ZO17hHWsNHRi9K3UHztWnkzfgmZujp6LBq3Iuv1/eKueaw=
+=JrMq
+-----END PGP SIGNATURE-----
