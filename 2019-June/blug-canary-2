@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for June 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. We plan to publish the next of these canary statements in the first three
+weeks of July 2019. Special note should be taken if no new canary is
+published by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Donald Trump 'approved strikes on Iran over downing of drone before aborting plan'
+ Burglar dubbed 'Wimbledon prowler' to be sentenced more than a decade after his thieving spree began
+ Jewish Board of Deputies: BBC treatment of imam's anti-semitism 'deeply problematic'
+ Royal Ascot's famously strict dress code
+ Debate at schools is being shut down by a 'worrying trend towards an intolerance of different opinions', warns Ofsted chief
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Trump Approves Strikes on Iran, but Then Abruptly Pulls Back
+ Irans Gambit: Force the World to Rein In Trump
+ Xi Jinping Arrives in North Korea, With Many Eyes on Trump
+ Erdogan Says He Will Meet With Trump to Resolve Weapons Disagreement
+ Paul Whelan, Held in Russia for Spying, Pleads for Help from Trump
+
+$ date -R -u
+Fri, 21 Jun 2019 05:21:51 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAl0Mak8ACgkQQmooAO3W
+sm2w1A/+PODdI+H4W3NOjSBy5lmm5jES+1cX7WdBU+A+xmsjpk5V8Y267Ox2rSbi
+A8/Tm+na0gDGFvlzhK71TOAu1La6Fy7+N/eYqpOqHTRpC9IMhydAiLaqJ9TDiV/l
+N0m/5fMQbDYWnu5k8sQWSHaodMzG8t8YpaSHWaxrOVGZr3rbARSbP8cze3vxpWcJ
+PEQu5TkII9Gedjbv9Bv6dUZPmO6wEzrbX2/shRiR5R1uWZ4XVS+mULETJMXxA3Kt
+DMzavDge+OSKxocidmeUVBzJiPp9C6glcbrXlfEZZt2HCzO8KHTSXQHesnT1XLKj
+3kLrpji2xrf+JiQc5vzEdg+kVL0Dgf73oZ7mL1mfy8q26d2k8nf2SbbY8GxtSW+x
+6otn2TQ+I57lMaCS0NNkYceDhR9RuInU6NRjH8wosdKua3h8Gjix/AVYAH2rEAx/
+86NI6BZh/0FgqN4GWeAzvQLnd/E+rdRNtKx160pZfJ6YiBY+dcg+TrJeAaNvAeZN
+IyHSv82UHRXbxbuCReJ01OjAlZ5rp4bQiJMDgEHJcwOM4c6fBNC8JEwZItXIaO0e
+fCjLAcYfvdpYNSqUd/xdDjTrPMM3x33kM3SR/x7jBRjwOrkGHxC+tzzxVMEYPQ3A
+ws+vz+X7Bi+YqHpCl6t1jpjZQqBM38az9Um+4ZCfng/3Ks5uzZk=
+=47kA
+-----END PGP SIGNATURE-----
