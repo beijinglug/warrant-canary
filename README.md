@@ -2,6 +2,15 @@ Beijing GNU/Linux User Group Canaries
 =====================================
 If a bird flies away, SO SHOULD YOU.
 
+# June, 2019
+TWO canaries were fed, see:
+https://github.com/beijinglug/warrant-canary/tree/master/2019-June
+
+*Due to personal reason, wnereiz is no longer available and couldn't
+sign the warrent canary before the end of June 2019. A new member
+will replace him as the signer, we'll give a status update in the
+warrant canary update of July.*
+
 # May, 2019
 All THREE canaries were fed, see:
 https://github.com/beijinglug/warrant-canary/tree/master/2019-May
