@@ -1,0 +1,121 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for July 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrent canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrent
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of August 2019. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Due to personal reasons, wnereiz (0xFDFF2E13AA25BE72) was not available and
+couldn't sign the warrent canary before the end of June 2019.
+
+2. We determined that this was not a result of any incident. All statements of
+the warrent canary documents are still valid. Furthermore, wnereiz will continue
+to sign the canary documents in the future.
+
+3. We determined that the decision of asking vimacs (0xEA2DB82FE04A9403) to
+replace wnereiz and sign a substitution of the canary document was flawed. This
+decision is thus revoked.
+
+4. To avoid future incidents, we have amended the procedure on signing warrant
+canary documents, and added a new Statement to prevent similar issues.
+
+5. The previous warrent canary documents issued for July 2019 are revoked. Only
+this version is valid.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Home Secretary is urged to launch independent inquiry into Scotland Yard following Operation Midland scandal
+ Scientists decode brain speech signals into text in breakthrough for patients with severe disabilities
+ Bruce Lee's daughter accuses Quentin Tarantino of unfair 'caricature' of father
+ India launches murder inquiry after minister's rape accuser is hurt in lorry crash that killed her aunts
+ US pressures Germany to send warships to Persian Gulf
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ China Says Most Muslims Have Been Released From Camps. Others Say: Prove It.
+ They Survived Colonization and War. But Venezuelas Collapse Was Too Much.
+ Body of Concertgoer Found in France Fuels Anger Over Use of Force
+ Hong Kong Charges Dozens of Protesters With Rioting
+ Chinese Nationalists Bring Threat of Violence to Australia Universities
+
+$ date -R -u
+Tue, 30 Jul 2019 19:03:07 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAl1AlHEACgkQ+tPrBeiO
+jW0WaRAAmwFu4bJSPQcH00xAdQfbzw+WIDbG+zk8H5At3q8qIEqr02ouNYohkdWc
+7HqgLTDNtbbGoiExPPRj3oE25rMav3eb0gtZhkZrXjz6yC2YCWtP2XzxTr6V8s1Q
+ul0iKbfZclnBEMo+Ti1C3sSHVB31PLLdaKqdRuhl9Nzx1yKjZF3sn3ax6k/HKxeq
+DpSu4bwiXXS+kjF0Hntdc4ICois3bztNtATTBp5xyWPM0wRSGjw4rHVErBGEdzrZ
+4xt86TFq1Gev03OX7guBJjnr4cNfFtQJJ0jbT/LpJfalWxZfxZqpIACEJtwP6F9E
+bAZBYAL6PWz9523N61k4TJ8um2RRhviXWlGY/7VhHVFl8YFI4MT/8NHO5fntj7qP
+dDaW30HyJRbnOtL+vQD5WOp+LjGM403P3z+RmjYI6/ZVBz0sJ4LrvXSn/2wU1Zst
+pmt/UI/emMtujLCH2NTo9rfrQhUf/+b17Y9XWPcNvLDqIeXYyx3D2GJHwVx7/fwg
+Mdzp8LdnDJumkAkwXw/21GggBMOo1z3065a64kMpGxKvv0ldk+odaCfk8xmHwAJE
+4jOA87nnPZj5L/QBZlKK5uOzHigDe06rMebwWxQXpfw1vVeClB01mucTMccjYyjG
+Y8TbtUBbRdVFgJod/QDuyCypQRM5x1Vg27eh98QZzXNPtz0PTtQ=
+=yPv1
+-----END PGP SIGNATURE-----

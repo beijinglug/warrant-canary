@@ -1,0 +1,120 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for July 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrent canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrent
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of August 2019. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Due to personal reasons, wnereiz (0xFDFF2E13AA25BE72) was not available and
+couldn't sign the warrent canary before the end of June 2019.
+
+2. We determined that this was not a result of any incident. All statements of
+the warrent canary documents are still valid. Furthermore, wnereiz will continue
+to sign the canary documents in the future.
+
+3. We determined that the decision of asking vimacs (0xEA2DB82FE04A9403) to
+replace wnereiz and sign a substitution of the canary document was flawed. This
+decision is thus revoked.
+
+4. To avoid future incidents, we have amended the procedure on signing warrant
+canary documents, and added a new Statement to prevent similar issues.
+
+5. The previous warrent canary documents issued for July 2019 are revoked. Only
+this version is valid.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Boris Johnson: The man who insisted he had no chance of becoming prime minister
+ Eating a vegan diet can cut your risk of developing diabetes by almost a quarter, says Harvard scientists
+ Andy Murray's gold postbox knocked down in car accident
+ Fast & Furious stuntman in hospital with serious head injuries after accident on UK set of film
+ Iran not seeking confrontation, Zarif says in message to Boris Johnson
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Boris Johnson Is Poised to Be U.K. Prime Minister
+ In Pakistan, a Feminist Hero Is Under Fire and on the Run
+ South Korean Jets Fire Warning Shots Toward Russian Military Plane
+ Venezuela Blackout Leaves Caracas, and Much of the Country, Without Power
+ Britains New Liberal Democrats Leader, Jo Swinson, Could Be a Kingmaker
+
+$ date -R -u
+Tue, 23 Jul 2019 11:11:52 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAl0264oACgkQr5D/NPDH
+QYRE9w//WGnRoXPfXvrgxqNcUuR6PIF/EjF+aGscq/JzozuHDLX6kmiFy5nlmntV
+0ZI2kyfOR3uGs+eAW2jXznOv9tNIoVZ6PRmc9kNXd7LOt59DCDbB2Jz5dX8lzG7Y
+ldScUrfvH94wy4fhDUrCdHBCAoDTRlMzPGayuuVhSagk3UhHC2F48aNc2E7/Hb3C
+6E5m/tPm2pp0sIoMc69jar9ah27L9FtZ7cZjLdx78W4jvO2mxbZH4P3Hj3c45J0s
+eS2aAUnT9FndSf8/aT7gSYyDcLbT882XavUNchC7v5ElvSh+dbP7XOW04aP0OCFI
+y2o+xtoI66hkA/ag9p9Cwmo/cxMvqbMODP0zD8jcckKWWAO55EMe672EEwOwCkE9
+nCZrLK+iTtmPVKbYrRD0vqvz/8W6e/tAIl8xc9AdvCTEJ0DipMMz1ZhzsNjLQihB
+nS5Ts64WPTzA5aZe9qCsEYAGcR5pWJN4vAD9AJB5K1LogpMIdoUcS/N9BHlAQLI8
+w4iV/QBejlg7umIvath2ejHN/AybDufxrgG1Ehtyv7C1OAwoPnZvJN89MPsJD8Y+
+jpw/PRrj2FPhMwY2Y5dngYZvwphfGptughQ8W/zSy1QQ8Q6A3nI46C9v/UxL/x1s
+8uCHBCIeKZMvHHP0cdYARe/pd5Tj1jfw+WXKJyGT3N44RYrBSWw=
+=MrAi
+-----END PGP SIGNATURE-----

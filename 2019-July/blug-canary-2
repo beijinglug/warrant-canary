@@ -1,0 +1,120 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for July 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrent canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrent
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of August 2019. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Due to personal reasons, wnereiz (0xFDFF2E13AA25BE72) was not available and
+couldn't sign the warrent canary before the end of June 2019.
+
+2. We determined that this was not a result of any incident. All statements of
+the warrent canary documents are still valid. Furthermore, wnereiz will continue
+to sign the canary documents in the future.
+
+3. We determined that the decision of asking vimacs (0xEA2DB82FE04A9403) to
+replace wnereiz and sign a substitution of the canary document was flawed. This
+decision is thus revoked.
+
+4. To avoid future incidents, we have amended the procedure on signing warrant
+canary documents, and added a new Statement to prevent similar issues.
+
+5. The previous warrent canary documents issued for July 2019 are revoked. Only
+this version is valid.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Sri Lanka accuses UK of hiding human remains in 100 containers of exported recycling
+ Booker Prize longlist 2019: The 1,000-page novel with only one sentence
+ Cadbury's launches 'diet' Dairy Milk as lower sugar bar marks first recipe change in 100 years
+ Give heatwaves names so people take them more seriously, say experts, as Britain braces for hottest day
+ Swimmer goes missing after jumping into east London dock with friends
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ For Boris Johnson, the Tumult Begins Inside Downing Street
+ Boris Johnson to Take Leadership of a Britain in Deep Crisis
+ Trump and Johnson: Allies in Disruption
+ In Pakistan, a Feminist Hero Is Under Fire and on the Run
+ South Korean Jets Fire Warning Shots Toward Russian Military Plane
+
+$ date -R -u
+Wed, 24 Jul 2019 03:53:59 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAl031sgACgkQQmooAO3W
+sm3wUhAAvIgywMOmEkiqyHsYx7f2asOPKEFzUKzaLHHlp8cxRSgfeG4bu3QiXSK8
+/wnIYxr8AosmQMJuLo3W3hirC/U7DQtAPxmk8AHU09x+IW1nmoUw1xW8ATKH7xkw
+ULNLMoMShLoWNkDZxMVtcpG3+1/akAbSqUxkntSESM736kl4Tm6JH/s9E5LQxHVw
+Q5hJP5PPwCEpPXUharjnptudxcSVa64MDKJfGW+Pv99lKRCN/vt6oTYiMUSbxy5/
+T6sfW2qYCyRDXFvVuEIHOT/3u3ubg1+zsDoEWC+Z4o+FixgndnrJ9RYWaM2AWbqD
+LlNxbNvssD0qozv2TpTr2xhJo//EDht37hCQ8TsyMdOgj/QslvoslxZhCqLtW65z
+jY7c2yJmlWUehqymVZSFn9D997o0VyymeZQmFbg4Zqdvm2uJxfhB6xj3GslYsvHl
+C0M9V7bTqTrqgH/cEBl4H2XPRBp2wkSznfYWywXb9MrG4bfkGad0rxgCUL/lilDE
+LZFvgglXMiwDE/fSCt1VIE6oP/FY5GmBx66S2juRLhf3Ds0Z2tB6EsQIGiO+tmu4
+HXmDQwYKgnSNqIa7fpWvw2Shi5Qrnch1G8o3YvVCqYxUVAO6BLuGgiGO2PLaxiWE
+0HeNR1fnvlwllujTj21iAJZI/ehV1aZS9WO5YFbg13hnWfAbbzM=
+=nNSR
+-----END PGP SIGNATURE-----
