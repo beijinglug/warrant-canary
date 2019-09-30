@@ -1,0 +1,120 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for August 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrent canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrent
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of September 2019. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Due to personal reasons, wnereiz (0xFDFF2E13AA25BE72) was not available and
+couldn't sign the warrent canary before the end of June 2019.
+
+2. We determined that this was not a result of any incident. All statements of
+the warrent canary documents are still valid. Furthermore, wnereiz will continue
+to sign the canary documents in the future.
+
+3. We determined that the decision of asking vimacs (0xEA2DB82FE04A9403) to
+replace wnereiz and sign a substitution of the canary document was flawed. This
+decision is thus revoked.
+
+4. To avoid future incidents, we have amended the procedure on signing warrant
+canary documents, and added a new Statement to prevent similar issues.
+
+5. The previous warrent canary documents issued for July 2019 are revoked. Only
+this version is valid.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Donald Trump 'has discussed buying Greenland from Denmark'
+ Dale Earnhardt Jr escapes burning private jet with family
+ UK weather: Flood warning as England braces for month's worth of rain in one day
+ NHS to scrap standard health MOTs for over 40s
+ Cricket umpire hit on head by ball during match dies in hospital
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Israel Denies Entry to Omar and Tlaib After Trumps Call to Block Them
+ Gibraltar Releases Iranian Tanker, Hours After U.S. Asked to Seize It
+ Going From Hong Kong to Mainland China? Your Phone Is Subject to Search
+ Leftist Atop Argentina Race Moves From Kirchners Shadow. Will His Policies Follow?
+ The Law Israel Used to Keep Omar and Tlaib Out
+
+$ date -R -u
+Fri, 16 Aug 2019 02:46:10 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAl1WGT8ACgkQr5D/NPDH
+QYSV7RAAhxG2W+UD2BWFb7g4bqzYX3Hn9YWh8TSHow4qQA4F2WBy+QBZmV4Ospgx
+f4jOYJ2k5oCnfBi2DePxWCio7ehDoPtZEwhtZX/AMojrrPd01RafNuvkTlIdtxTu
+I1rkYQPWfLIUdmxMG7ZQiVnAwQCPXhfViruj0YgyvXWC+PcKM1+e5TTAgAcIXuoF
+wrCKjOvQt9skn5t952jUfAWU7Nz5zCkomNJR9IXW/7CKHPLWu75irY4y4mZaNydC
+wiqyQpykpFJpdYCGuGWykAmAbV5kAr9EoW1KNum5GzGWuO444plKxM02QAMtpNrl
+fOgpXm4pttcrcqjb4Ju6RGYZ959YTrV8ZbLWLq5ehojAevaX5C4JhFHNUK+jTtd7
+73Og4lV7daLSg0c2w137YBi3ywG8WPdiGzhi+F40qcj9o41MaSMR1G9lerM5K/kf
+2y0AKCQaHu8+h5aqdfTaBd+wALT2os+fAJM8HCwGhUKGEIwNI8cOnwgtLpqCgRnS
+xAxOYB19ANXlblHiCJbSiSgZ7eW4G5HouEtGPKZRlpJFFBZ99d2NOf7m2tdj6d8v
+x75x+V+GowhYggQAlhC2orYucVKIY6kSOeZeXP+h1JfrvI0OILmuDyyvWwkozOMB
+3KCUpXGGwBNTvegzqohq2AvzJE/kZie5l1QOgDp0LxGVxLBKhxk=
+=vwzL
+-----END PGP SIGNATURE-----

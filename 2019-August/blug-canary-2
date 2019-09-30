@@ -1,0 +1,105 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for August 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrent canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrent
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of September 2019. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Family of UK Hong Kong consulate worker reject 'made-up' report about arrest over prostitution
+ Mother arrested after child found dead in caravan inBirmingham
+ Brazilian president hits out at criticism over Amazon fires as Macron warns of 'international crisis'
+ 'Worthless' sculpture from BBC's Fake or Fortune is actually priceless Giacometti worth more than 500,000
+ Cannabis oil too expensive to prescribe to epileptic children on NHS, advisory body finds
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ With Amazon Ablaze, Brazil Faces Global Backlash: Lungs of the Earth Are in Flames
+ Massacred at Home, in Misery Abroad, 730,000 Rohingya Are Mired in Hopelessness
+ South Korea Says It Will End Intelligence-Sharing Deal With Japan, Adding to Tensions
+ Israeli Airstrike Hits Weapons Depot in Iraq
+ Bold Women. Scandalized Viewers. Its Sex and the City, Senegal Style.
+
+$ date -R -u
+Fri, 23 Aug 2019 04:20:36 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEfpRElbj/BG3RcF+YQmooAO3Wsm0FAl1faoQACgkQQmooAO3W
+sm36zQ/+JtxdjWA+ChBi/TDNOZEx87aYIsBUnh0hVqPlGBBvhorv87mV4vl4AQhQ
+ssES0INFM+tjHqJeaCh/YOc0jUamXHxyuEtxGUKS7GAJM85i06nogSsrYpp/pKzo
+QCk1h1F8agtXGLHmUG88P8mx+SQ9iD+xhy8S8gs8XRtWyQ2esK8rApVsDO5JCLnv
+fkbyawNQ+wBjBfrDvlEkr6KcTvfOP7FocVW/aWoGh10uwfM48cGUZFAfRdDMqOuL
+kUxhmOnD7/IoBnJPXBnnznJDV/B57h4zqdeEq4Fp0RJ1IfgwZGbHs4yzUG2NJTgD
+wGVY4BmwvUEYuVzpuHUrQTHMaqK3mTFtnSU0ITd3w0f3tuwsHzC8SHvj0UvRwPGH
+jVI9oprH2LMjATZ7YmdjgleVYP9Dx2Cj+ICaCYd6XbbwCjB7PCbUILDnMqjtN+Bg
+1VkpXdaf9KVkvK/rXG0ibKPy/lQOtnjO0rZffa9u3ftrU3cZMwpNtFyYPARZCXUX
+jQ2dDcyYcTlP6pKUIhavv+/nJWcHJI+E9lriML9X5S5O9R7cZdgaZdSuPUmXtMuB
+i5GKOOa2DauA5nn2+81Dd/SAyLAS+wlrzNFFUE1DEoyXa9hJL/+75AQRjXoLDMSa
+AdevBN6C84e/lcQi0EX2jci6qQXswSytbI/d1TLo816UKbt+QpI=
+=ldAe
+-----END PGP SIGNATURE-----
