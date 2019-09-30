@@ -1,0 +1,105 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for September 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrent canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrent
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of October 2019. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ NHS bosses tried to 'gag' father of boy whose life was ruined in botched operation
+ US blames Iran for attack on Saudi Arabia
+ Girls as young as 11 are filming themselves 'performing sexually' at home as figures reveal over 100 cases a day
+ Sister of driver killed on M1 smart motorway backs calls for roll-out to be halted
+ 4.8m golden lavatory stolen from Blenheim Palace ... police have nothing to go on
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Two Major Saudi Oil Installations Hit by Drone Strike, and U.S. Blames Iran
+ Iraq Faces a New Adversary: Crystal Meth
+ Top Canadian Intelligence Official Charged With Leaking Secrets
+ Netanyahus Fate May Depend on Israeli Arab Voters. Will They Turn Out?
+ Is Trumps America Tougher on Asylum than Other Western Countries?
+
+$ date -R -u
+Sun, 15 Sep 2019 03:16:48 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAl19rSoACgkQr5D/NPDH
+QYSLjRAAhxXRSg6QeZu9yDZl9f2x+RnDTUSobcymkpUEf+8z5taogAkP6AeSaaK8
+JkbLzoOmevMrF675Ljw6tr8xQQsZcz71js8XID1/r3zDENzxGt/JhJC4yIFE27MJ
+eRksLM3bs962KgewcJKgcCR6SvnT6bvnKWBJoNaHJyON53vYbWcIYUfZ2zJydwHj
+rEIQateXsH9u9q3swKsQV1m/qKQ1iU2Cf+YhiA7GB8AvGOYLNKMBjlbXmJ6+qQFt
+CGdpej3an/Ci0EsQftiwqSlLXzmWRfEi913cLO3ilSAv5IdFVSa2zObRw282GO0K
+gI5tA1Rw51HM87EP5GtPqu3RQclNJLS9JGlIZHb3v+CBpw1yrVUf7J6REmO4ccR2
+DoEswL0rRqjU7NEJZWasxp1e/7MsulHrLSiKYWyeEr8HUiP1eCv75axL3jxRJuf8
+8MLXUwDsU03JAqeEpkjUg0XUHRiaxYRL90yNhvxa+LQ00vfAqm1hCe29CR3DS+Ud
+u1Bt7P61QdUn27CDc4zQU0fUqHsBR+fdqNtEDFTFeuQCIADzmlM1SOdMlxR6r0kP
+S+U0KzJFjv2m7y57J3R+6k/fncUj/vgoXxikdYBtwS0unm6/KXfDLYh3aJj1XLuO
+9broIGU4lmDZeQ+Pu5phU+akqbMcCs7WCQnb3pqFzgC0ZqgbaGM=
+=UdZG
+-----END PGP SIGNATURE-----
