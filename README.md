@@ -2,6 +2,10 @@ Beijing GNU/Linux User Group Canaries
 =====================================
 If a bird flies away, SO SHOULD YOU.
 
+# January, 2020
+All THREE canaries were fed, see:
+https://github.com/beijinglug/warrant-canary/tree/master/2020-January
+
 # December, 2019
 All THREE canaries were fed, see:
 https://github.com/beijinglug/warrant-canary/tree/master/2019-December
