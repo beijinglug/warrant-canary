@@ -1,0 +1,105 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (3/3)
+====================================
+
+Issued for October 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-1
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrent canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrent
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of November 2019. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Commuters drag Extinction Rebellion protester from roof of train as activists target Tube
+ Thursday morning news briefing: Three days to move a mountain
+ Donald Trump accused of undermining US efforts to broker ceasefire between Turkey and Kurds
+ 'Don't be a fool!' Donald Trump writes letter to Turkey'sTayyip Erdogan about Syria
+ Pictures of the Day: 17th October 2019
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Blow to Boris Johnsons Brexit Plan as He Heads to Brussels
+ The World Condemns Erdogans War on Kurds. But Turkey Applauds.
+ Japan Spent Mightily to Soften Natures Wrath, but Can It Ever Be Enough?
+ Moroccos King Pardons Journalist Sentenced on Abortion Charge
+ Where Pugs Rule the Racetrack
+
+$ date -R -u
+Thu, 17 Oct 2019 08:03:49 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3n2KYOSW/nkFgy0Or5D/NPDHQYQFAl2oIHYACgkQr5D/NPDH
+QYQ0MA/8CoywAgwxovP2RZ/O5LpYBxVqAT3K1iy+yWM8jVAeDNKrkQ/c8O162zl8
+BnA2wv2t4Ewfl2nRm3wADzw57otvOOPof61hwO3f5JPP/OVd8mB/fTk7TzEJ3M7r
+wYXwWPIz7ejPaPw4iUtHN6OKcRDcuzUxAzR5FN/9xWPWUVXI90vSJk2Qo1Ml1rqZ
+A5OK0yq021xcwQ3yy0cbSjOsbgTJndCVbmO3bOPpvJHo6BLRxG39IdA4uckHkG4W
+no/tVPI53zcxIBykODWlD7FQPcu1WhCmHJh7NMYMXKal+dZMrgi2DzqjNufYUmdS
+p+LUmJaPMsJt/+/imONF1LeHZF4TpGMz8WsDEcK8QCyrPxTVoMbVc8OnR8VFObRC
+2x4F5anW68XKD+wl8ltg/XdbjAJKhlPz5CqGJ2aSVtlUHIZc7aqXQVl6lMnz6MiN
+HUWvupK6HGVhOPDRSO/WQyKFVOZZlzkzMl8naoefPPFlX2ywpB1MiQuBIhfe4TSW
+5DuefmZOZtMMiq+JsAF047KeFt1jf/bEjOSiuFY7bmyESJCVCnaYvmacIn9wO+Ts
+io5uktGLfNLOguZLTlorwR4Iit1ElE6Y+HkUm7nFUAxaD9WMZ37Cp9iBKNfo3SOz
+RHyciGwLxa2idSc1qU3OzYUSXF/FKnfS30guBoMkg+xUCHyQCF8=
+=25rr
+-----END PGP SIGNATURE-----

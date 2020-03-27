@@ -1,0 +1,106 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (1/3)
+====================================
+
+Issued for October 2019.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0xFAD3EB05E88E8D6D
+* persmule : 0x2987A25DAC8454A5
+* wnereiz  : 0xFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-2
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrent canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrent
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of December 2019. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+None.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ Grenfell Tower: Dany Cotton refuses to resign after damning report demands 'urgent action' against London Fire Brigade
+ Halloween 2019: How Celtic trick-or-treating and Gaelic turnip-carving led to the American celebration
+ Clutha helicopter crash caused by pilot taking 'a chance' low fuel warnings were wrong, inquiry finds
+ Grenfell Tower report: Fire union chief hits back at 'back-to-front' criticism saying ministers are 'evading scrutiny'
+ Grenfell Tower report section by section: the 1,000 pages of damning criticism on failures that compounded tragedy
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Vietnamese Migrants Sought a Brighter Future in Britain. Now, Their Families Mourn Them
+ Grenfell Tower Inquiry Criticized for Faulting Fire Brigade
+ Militants Kill 5 Laborers in Kashmir, Expanding Threat to Civilians
+ An H.I.V. Outbreak Puts Spotlight on Pakistans Health Care System
+ Britain to Hold Election in December, Opening New Phase in Brexit Odyssey
+
+$ date -R -u
+Wed, 30 Oct 2019 16:28:27 +0000
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIzBAEBCgAdFiEEJVIRsjlaWj4OSKDx+tPrBeiOjW0FAl25ulEACgkQ+tPrBeiO
+jW3mVw/9F1LMoODRWmEIQeD5VPIWJwwp33Rt53WuYIBCA2yK1dtLKWj+fO8tBkq8
+rLAwBcL4JFgAcdqJT6SpB/GC8XukKgXFiIJjvHfRhXt6ZefMvAbaJDJ44dRKQx5k
+eokxlbsLhvBqksa3BP0EF+1wRwMZghe09YXY64wm+ebEb+SjWkFblYEhk4KvVBoO
+cNDdK7rsGLoh1B4qt2N2W4WES9NJaFqHqy+iafYRbZya9pa/zHBFSK+cRDxioZsi
+X51U60Ntt50rq+nEtoH4qqIQYcSZ1PMPkmkkF7M/VQ3lhzQownv6fYRhq/jeyz0a
+fW7Bmfl9SaJTeTcegPjrh/v+yUL5PC7ZjjsXIEVNS0L3SaNatVnxuVC0HvcXziZa
+BPsWjv6qBbQBCVjSkv0yU6zfXlNAzGRhJLXXTSulraEs0hUoeIsdC8IbQ2KkvXSt
+cySvJw85UZSyCJCJ+AQdJ8Hbg+4OvhRB2trT1skmRUZeKL9aM0XEB3ByXIBmBf+q
++zsDLTylDwSLRIaoGHFTXJRKUzV1AAr6KWfq0WitX5aAILKEBm/0vAlVlc6pnhh8
+7B4SmUM4Ame6CdVDcOjjPD8FZkRxvTzcsFB7jGEMMrQMVQJCdJr/o6oJ3keTeu9L
+5abIthywfFa3mIWL2GDcc8inYFPOGFUbaiaPUBrjuqTYPdpV1H8=
+=RMwa
+-----END PGP SIGNATURE-----
