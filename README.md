@@ -2,6 +2,16 @@ Beijing GNU/Linux User Group Canaries
 =====================================
 If a bird flies away, SO SHOULD YOU.
 
+# October, 2019
+TWO canaries were fed, see:
+https://github.com/beijinglug/warrant-canary/tree/master/2019-October
+
+*Due to an OpenPGP key expiration and rotation issue overlooked by us,
+it was impossible for persmule to sign the warrant canary using the
+expired signing key. Thus, only two canary documents were signed.
+See the status update in the newer documents from November, 2019
+for details and clarifications.*
+
 # September, 2019
 All THREE canaries were fed, see:
 https://github.com/beijinglug/warrant-canary/tree/master/2019-September
