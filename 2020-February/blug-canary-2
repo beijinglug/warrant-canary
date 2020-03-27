@@ -1,0 +1,142 @@
+i-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+BEIJING GNU/LINUX USER GROUP CANARY (2/3)
+====================================
+
+Issued for February 2020.
+
+Don't just trust the contents of this file blindly! Verify the
+digital signatures! Also, make sure the keys are correct!
+
+Signers
+~~~~~~~~~~~~~
+
+* biergaizi: 0x255211B2395A5A3E0E48A0F1FAD3EB05E88E8D6D
+* persmule : 0xEDFFE248ECFACDE3C805906804A40D21DBB89B60
+* wnereiz  : 0x0A6A91990AC98712274AA18DFDFF2E13AA25BE72
+
+THREE DOCUMENTS IN TOTAL.
+
+You should verify all signatures from each of the maintainers, the next
+one is located at:
+
+* https://beijinglug.club/wiki/doku.php?id=blug-canary-3
+
+It is possible that the signatures are not updated at the same time,
+but eventually all canary documents should be consistent, signed and updated
+by all current maintainers of Beijing GNU/Linux User Group in a short time.
+
+Statements
+~~~~~~~~~~~~~
+
+1. All our infrastructure is in our control, the integrity of our
+entire system is sound.
+
+2. We have not been compromised or suffered a recent data breach,
+to our best knowledge.
+
+3. We have not disclosed any private encryption keys.
+
+4. We have not been forced to modify our system to allow access or
+information leakage to a third party.
+
+5. We haven't received any specific orders, requests or recommendations
+from any authorities, whether formal or informal.
+
+6. We have not received any court orders, gag orders, or other similar
+orders from the government of the People's Republic of China.
+
+7. We have not received any government subpoenas.
+
+8. Our personal safety and security is not threatened.
+
+9. To avoid security breaches and emphasize the clarity of the warrant canary
+documents, if a signer is temporarily unavailable, only existing signers in the
+"Signer" list SHALL sign a special placeholder notice (this notice itself SHOULD
+NOT be considered a valid canary document) until the signer becomes available
+again and signs the missed documents. A new signer SHOULD NOT sign a warrant
+canary document only due to the temporary unavailability of a existing signer.
+
+10. We plan to publish the next of these canary statements in the first three
+weeks of March 2020. Special note should be taken if no new canary is published
+by that time or if the list of statements changes without plausible explanation.
+
+Special Announcements
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Since mid-October, persmule's old signing key 0x2987A25DAC8454A5 has
+expired. A new key, 0xEDFFE248ECFACDE3C805906804A40D21DBB89B60, has been
+created and uploaded to https://keys.openpgp.org/, it can be obtained from
+this keyserver.
+
+2. The new key will be used by persmule to sign future warrant canary
+documents. You can verify the signature by crosschecking the other two
+documents signed by biergaizi and wnereiz for consistency.
+
+3. Due to this key rollover, the October message was not signed by persmule.
+This did/does not indicate a security incident, all of the statements above
+were valid, and are still valid.
+
+4. Recent attacks on OpenPGP keyservers have raised great security concerns
+within the community, as a countermeasure, persmule's personal User-ID has
+not published to the https://keys.openpgp.org/ keyserver. Instead, only
+cryptographic information can be obtained from the keyserver, without any
+User-ID. Currently, it's impossible to import a OpenPGP public key without
+User-ID to a standard GnuPG installation, as a result, it's not possible
+for a 3rd-party to verify the canary document signed by persmule.
+
+5. We are looking for a solution. But for now, we decided that the best
+option is starting publishing new canary documents using the new key.
+As a temporary measure, you can check the canary documents signed by
+biergaizi and wnereiz to decide the validity of the Statements. By signing
+their own copies, it indicates that the new key has been verified privately
+by them as valid.
+
+6. This effectively reduced the number of signers to two people. It reduces
+the level of confidence, but currently there is no alternative option yet.
+
+7. Once the technical problem of OpenPGP public key without User-ID is
+resolved, you can check the previous signatures retroactively, and this
+would effectively restore the level of confidence. You can archive
+persmule's signature as soon as it's published to your own machine to
+ensure no data tampering has occured.
+
+8. Unlike persmule, biergaizi and wnereiz's signing keys are unchanged,
+but the Key-IDs have been changed to its full fingerprint format in the
+canary document for clarity.
+
+9. When new information is available, it will be published in the "Special
+Announcements" section in future warrant canary documents.
+
+Proof of Freshness
+~~~~~~~~~~~~~~~~~~~~
+
+$ rsstail -1 -n5 -N -u https://www.telegraph.co.uk/news/rss.xml
+ US intelligence chief replaced 'after clash with Donald Trump over Russian bid to boost re-election'
+ Windrush draft report that called Home Office institutionally racist 'was watered down'
+ Grace Millane killer sentenced to life in prison in New Zealand for murder of British backpacker
+ Regent's Park mosque stabbing: man in his 70s attacked during prayers
+ Thursday evening news briefing: Stabbing in London mosque
+
+$ rsstail -1 -n5 -N -u https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ Coronavirus Live Updates: Clusters in Japan May Hint at How Virus Spreads
+ Far-Right Shooting Shatters an Already Fragile Sense of Security in Germany
+ A Police State With an Islamist Twist: Inside Hifters Libya
+ U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia
+ Suspect Arrested in Stabbing at London Mosque
+
+$ date -R -u
+Fri, 21 Feb 2020 02:01:48 +0000
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwonfPqgFyacM7J3iwYAPuUJ74CEFAl5POx0ACgkQwYAPuUJ7
+4CFEBAgAzvltWGMHElouFtnWIfb5EU0LL9Zlfhg2V8KZ/fe+bL6mKw1H9gxwTo08
+oi+GBRYQz8l4AVU1YTDO2aZNUYATIxsiBhFAEpGe1xoh3ui/9bZbUAtMZBHfoHK3
+ff6UnbfbHZOWUyfh03UNllZ3cdVBzQ9c64LrFlPmu2zNaif2/QTvESOpuDfNwRoR
+CDsOg434SMB5T8mruLDy7NPyqey+03BpkhEMalskn6ra8FQWmct7q2xVfkB5HRhy
+l4SGWGNI8eE9+atyH/wKM46Ytdx0zgBCHQ95yeWa4kwAn6EP9kYMEqMRCSAdHauW
+Mp4GAH94izVkxwDQ6R7X9o2WdmZh7w==
+=1OSg
+-----END PGP SIGNATURE-----
