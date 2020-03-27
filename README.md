@@ -2,6 +2,14 @@ Beijing GNU/Linux User Group Canaries
 =====================================
 If a bird flies away, SO SHOULD YOU.
 
+TWO canaries were fed on time, see:
+https://github.com/beijinglug/warrant-canary/tree/master/2020-February
+
+*Due to personal reason, biergaizi was not available and couldn't sign
+the warrant canary before the end of February, 2020. A replacement
+canary for February, 2020 has been signed retroactively by biergaizi
+in March, 2020 to verify its statements are still valid.*
+
 # January, 2020
 All THREE canaries were fed, see:
 https://github.com/beijinglug/warrant-canary/tree/master/2020-January
